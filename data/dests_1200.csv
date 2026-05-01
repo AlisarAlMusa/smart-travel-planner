@@ -1,0 +1,1201 @@
+destination,country,continent,city,place_name,place_variant,avg cost (usd/day),avg_temp_year,hiking_score,beach_score,nightlife_score,culture_score,food_score,adventure_score,nature_score,safety_score,accommodation_type,terrain_type,travel_style
+South Africa,South Africa,Africa,Kruger,Family Safari,day-trip zone,183.19,14.4,6.0,7.0,3.0,7.0,6.0,7.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+Japan,Japan,Asia,Kyoto,Ryokan Stays,nearby district,202.94,18.2,4.0,6.0,6.0,7.0,8.0,4.0,7.0,10.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Copper Canyon,Rail and Hikes,nearby district,128.74,25.2,8.0,3.0,3.0,5.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Canberra,National Institutions,local experience,161.87,23.8,3.0,3.0,5.0,9.0,8.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Dades Valley,Canyon Routes,day-trip zone,107.87,20.5,8.0,4.0,5.0,7.0,6.0,8.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Toronto,Zoo and Museums,main area,172.74,5.6,4.0,6.0,4.0,8.0,6.0,6.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Arequipa,Slow Colonial Stay,local experience,122.79,21.3,4.0,9.0,5.0,6.0,8.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Milan,Fashion Hotels,day-trip zone,327.57,18.0,3.0,7.0,6.0,8.0,7.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Durban,Indian Ocean Culture,local experience,160.02,19.2,3.0,8.0,5.0,9.0,9.0,5.0,4.0,6.0,Standard Hotel,Coastal,Culture
+Australia,Australia,Oceania,Port Douglas,Reef Luxury Stays,local experience,282.16,21.5,4.0,8.0,8.0,6.0,8.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Lake Como,Luxury Villas,main area,313.11,11.8,5.0,7.0,8.0,7.0,8.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,El Chalten,Fitz Roy Trails,main area,122.42,16.7,9.0,6.0,4.0,4.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Aswan,Nile Desert Routes,nearby district,132.42,24.8,8.0,5.0,4.0,6.0,5.0,9.0,7.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Kruger,Private Safari Lodges,nearby district,273.01,22.5,5.0,8.0,7.0,7.0,9.0,6.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Da Nang,Beach Coast,main area,140.17,29.2,5.0,8.0,4.0,4.0,7.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Arequipa,Colca Canyon,day-trip zone,103.88,15.9,9.0,3.0,4.0,7.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Sukhothai,Historical Park,local experience,138.75,24.5,6.0,5.0,5.0,9.0,7.0,4.0,8.0,7.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Affordable Music Stay,nearby district,62.34,10.6,5.0,5.0,6.0,6.0,6.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Courchevel,Alpine Resorts,day-trip zone,207.2,12.8,6.0,7.0,7.0,7.0,9.0,6.0,8.0,9.0,Resort/Apartment,Mountain-Nature,Luxury
+Germany,Germany,Europe,Cologne,Cathedral Quarter,local experience,132.84,11.6,3.0,5.0,7.0,9.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Baden-Baden,Thermal Spas,main area,124.09,9.4,4.0,9.0,6.0,3.0,6.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Seville,Budget Tapas Stay,nearby district,99.96,15.2,5.0,5.0,6.0,7.0,8.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Chiang Mai,Budget Guesthouses,main area,89.48,27.1,5.0,,6.0,6.0,9.0,6.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Bay of Islands,Coastal Retreat,main area,169.74,14.1,5.0,8.0,6.0,5.0,7.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Ha Giang,Mountain Loop,nearby district,124.89,26.0,9.0,5.0,,7.0,8.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Agadir,Beach Resorts,nearby district,155.54,25.3,4.0,8.0,5.0,7.0,7.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,New Orleans,Affordable Music Stay,nearby district,97.54,18.6,5.0,5.0,5.0,7.0,7.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Salta,Colonial Center,day-trip zone,128.07,18.5,4.0,4.0,5.0,9.0,9.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Rugen,Baltic Beaches,day-trip zone,133.73,15.5,5.0,8.0,5.0,7.0,6.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Lyon,Old Town and Food,day-trip zone,122.1,16.3,4.0,4.0,4.0,9.0,8.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Knysna,Lagoon Stay,day-trip zone,168.57,20.5,3.0,8.0,4.0,7.0,6.0,4.0,6.0,5.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Kruger,Private Safari Lodges,nearby district,279.14,14.9,4.0,7.0,8.0,8.0,7.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Oaxaca,Budget Food Stay,main area,106.12,18.9,5.0,6.0,6.0,6.0,6.0,5.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Kunming,Affordable City Base,local experience,118.16,14.5,4.0,6.0,5.0,8.0,,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Japan,Japan,Asia,Kyoto,Zen Gardens,day-trip zone,125.65,14.6,4.0,9.0,5.0,7.0,7.0,4.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Beijing,Forbidden City,main area,177.35,9.9,5.0,4.0,7.0,10.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Kanazawa,Samurai and Gardens,local experience,103.83,12.6,4.0,5.0,6.0,,9.0,,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Yunnan,Tiger Leaping Gorge,day-trip zone,183.5,12.5,8.0,,5.0,5.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Agadir,Beach Resorts,nearby district,146.28,23.9,5.0,8.0,6.0,6.0,6.0,6.0,9.0,8.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Cape Town,Budget Hostels,main area,106.4,19.7,6.0,6.0,6.0,7.0,8.0,6.0,7.0,4.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Agadir,Family Beach Resorts,nearby district,129.6,24.8,5.0,8.0,4.0,8.0,7.0,7.0,7.0,8.0,Standard Hotel,Coastal,Family
+Thailand,Thailand,Asia,Pai,Mountain Roads,local experience,121.6,25.5,8.0,3.0,3.0,6.0,8.0,10.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Riviera Maya,Family Resorts,main area,168.02,23.6,5.0,6.0,4.0,8.0,6.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Dali,Lake Retreat,local experience,183.09,11.4,5.0,7.0,6.0,5.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Crete,Five Star Coast,day-trip zone,296.0,17.3,3.0,9.0,7.0,8.0,8.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Puerto Vallarta,Pacific Beaches,day-trip zone,156.02,22.7,5.0,8.0,7.0,6.0,7.0,5.0,9.0,7.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Muskoka,Lake Cottages,day-trip zone,170.68,8.3,4.0,9.0,5.0,5.0,8.0,6.0,6.0,9.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Northern Territory,Uluru Desert Routes,local experience,137.41,19.7,9.0,6.0,4.0,5.0,5.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Lat,Waterfalls and Canyoning,local experience,120.45,27.0,8.0,3.0,5.0,5.0,6.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Brazil,Brazil,South America,Bahia,Praia do Forte,local experience,98.94,28.3,4.0,9.0,5.0,5.0,6.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Marrakech,Budget Medina Hostels,nearby district,93.0,24.3,4.0,5.0,6.0,8.0,6.0,4.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Madrid,Museums and Parks,local experience,170.59,22.2,6.0,7.0,3.0,8.0,8.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Arequipa,Slow Colonial Stay,local experience,132.16,19.2,5.0,,4.0,7.0,6.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Kerala,Western Ghats Trails,local experience,106.97,23.2,9.0,5.0,4.0,6.0,5.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+USA,USA,North America,Yellowstone,Family Nature Trip,local experience,154.78,16.4,5.0,7.0,2.0,7.0,6.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Canada,Canada,North America,Vancouver Island,Quiet Coastal Stay,main area,152.85,6.8,5.0,9.0,6.0,6.0,7.0,5.0,,8.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Rio de Janeiro,Copacabana Luxury Hotels,main area,210.86,25.5,4.0,7.0,7.0,6.0,8.0,6.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Tokyo,Disney and Museums,main area,116.08,14.1,5.0,6.0,4.0,8.0,7.0,5.0,6.0,10.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Cusco,Family Heritage Tours,nearby district,142.0,16.6,6.0,7.0,3.0,8.0,7.0,6.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Hangzhou,West Lake,nearby district,186.12,11.0,5.0,9.0,6.0,5.0,6.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Buzios,Beach Town,nearby district,126.55,24.5,5.0,8.0,7.0,4.0,8.0,4.0,9.0,6.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Northern Territory,Uluru Desert Routes,local experience,136.38,19.4,8.0,4.0,3.0,5.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Puerto Vallarta,Pacific Beaches,day-trip zone,158.5,19.2,4.0,9.0,5.0,5.0,8.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,Arizona,Grand Canyon,day-trip zone,131.7,10.8,8.0,,4.0,6.0,5.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Atlas Mountains,Toubkal Trails,main area,116.97,20.7,8.0,6.0,4.0,6.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Crete,Five Star Coast,day-trip zone,321.9,17.2,3.0,8.0,7.0,7.0,7.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Germany,Germany,Europe,Berchtesgaden,Alpine Lakes,local experience,99.55,9.3,8.0,5.0,5.0,6.0,7.0,8.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Salta,Colonial Center,day-trip zone,150.31,16.7,4.0,3.0,6.0,9.0,8.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Sydney,Harbour Culture,nearby district,157.5,15.8,4.0,3.0,6.0,9.0,8.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Thessaloniki,Byzantine Heritage,day-trip zone,159.87,19.2,4.0,4.0,7.0,10.0,9.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Varanasi,Ganges Ghats,nearby district,122.76,24.0,4.0,2.0,5.0,10.0,7.0,5.0,6.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Vancouver Island,Coastal Trails,local experience,150.3,7.7,8.0,8.0,6.0,6.0,6.0,8.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Naxos,Calm Family Coast,local experience,182.84,18.8,4.0,8.0,4.0,,7.0,5.0,6.0,8.0,Standard Hotel,Coastal,Family
+Italy,Italy,Europe,Cinque Terre,Coastal Trails,day-trip zone,151.11,13.7,9.0,8.0,4.0,5.0,,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Hell’s Gate,Cycling and Cliffs,day-trip zone,129.23,21.8,10.0,5.0,4.0,6.0,7.0,9.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Rabat,Historic Capital,day-trip zone,134.49,25.4,3.0,3.0,6.0,9.0,8.0,6.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Crete,Samaria Gorge,main area,165.78,19.0,9.0,3.0,3.0,4.0,7.0,8.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Maasai Mara,Safari Drives,main area,129.03,22.7,8.0,4.0,5.0,6.0,6.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Bariloche,Lake Resorts,day-trip zone,220.74,15.3,4.0,8.0,6.0,8.0,8.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Madrid,High-end City Stay,day-trip zone,276.31,18.5,4.0,6.0,6.0,8.0,,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Curitiba,Parks and Museums,local experience,112.9,24.2,6.0,7.0,4.0,8.0,7.0,4.0,8.0,6.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Hoi An,Slow Riverside Stay,day-trip zone,165.84,27.5,3.0,8.0,4.0,5.0,7.0,4.0,9.0,7.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Maasai Mara,Luxury Safari Camps,main area,229.13,24.9,6.0,7.0,8.0,7.0,10.0,5.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+Canada,Canada,North America,Jasper,Glacier Hikes,nearby district,143.88,5.9,8.0,6.0,4.0,7.0,7.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Buenos Aires,San Telmo Historic Quarter,main area,137.57,14.8,4.0,5.0,6.0,10.0,10.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nara,Deer Park,day-trip zone,123.2,14.8,6.0,7.0,3.0,6.0,8.0,5.0,8.0,,Standard Hotel,Mountain-Nature,Family
+Vietnam,Vietnam,Asia,Da Nang,Family Beaches,main area,159.43,28.5,6.0,8.0,3.0,6.0,7.0,5.0,6.0,7.0,Standard Hotel,Coastal,Family
+USA,USA,North America,Arizona,Grand Canyon,day-trip zone,137.64,17.3,9.0,4.0,5.0,5.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Queenstown,Lake Activities,day-trip zone,176.79,13.0,4.0,6.0,3.0,7.0,7.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Family
+Brazil,Brazil,South America,Rio de Janeiro,Budget Beach Neighborhoods,local experience,61.0,23.2,4.0,8.0,7.0,8.0,6.0,5.0,5.0,6.0,Guesthouse/Hostel,Coastal,Budget
+India,India,Asia,Varanasi,Ganges Ghats,nearby district,,25.0,4.0,3.0,5.0,9.0,9.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Sydney,Harbour Culture,nearby district,161.03,25.4,3.0,3.0,5.0,10.0,6.0,3.0,7.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Noosa,Sunshine Coast Beaches,day-trip zone,153.37,23.4,4.0,10.0,4.0,4.0,7.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Mykonos,Beach Clubs,nearby district,192.4,19.3,4.0,8.0,6.0,5.0,7.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Mar del Plata,Family Beaches,local experience,151.44,16.3,5.0,8.0,3.0,5.0,8.0,7.0,7.0,8.0,Standard Hotel,Coastal,Family
+Mexico,Mexico,North America,Merida,Budget Heritage Base,day-trip zone,84.22,25.8,4.0,7.0,5.0,8.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Greece,Greece,Europe,Thessaloniki,Byzantine Heritage,day-trip zone,182.57,19.4,,2.0,6.0,8.0,7.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Kyoto,Ryokan Stays,nearby district,191.88,15.4,5.0,6.0,7.0,6.0,8.0,6.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Germany,Germany,Europe,Baden-Baden,Thermal Spas,main area,120.06,11.5,3.0,8.0,5.0,6.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Oaxaca,Sierra Norte Trails,local experience,135.59,19.5,8.0,5.0,4.0,5.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Mombasa,Old Town,day-trip zone,132.74,19.1,4.0,3.0,4.0,9.0,9.0,6.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Crete,Samaria Gorge,main area,183.48,18.3,8.0,4.0,4.0,6.0,7.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Kisumu,Affordable Lakeside,local experience,98.38,21.8,4.0,5.0,6.0,6.0,7.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Fiordland,Milford Track,nearby district,133.62,11.7,9.0,4.0,4.0,6.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Luxor,Nile Cruise,nearby district,218.72,28.1,5.0,8.0,9.0,6.0,9.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Huaraz,Budget Trekking Base,local experience,62.8,16.8,6.0,6.0,5.0,6.0,8.0,6.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Budget
+France,France,Europe,Marne-la-Vallee,Disneyland Paris,nearby district,146.74,15.2,5.0,6.0,5.0,7.0,7.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Lake Como,Luxury Villas,main area,302.05,14.9,4.0,9.0,7.0,7.0,8.0,4.0,5.0,7.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Luxor,Temple Tours,day-trip zone,130.43,22.4,5.0,8.0,2.0,8.0,7.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Sacred Valley,Luxury Lodges,main area,208.58,15.7,7.0,7.0,5.0,6.0,9.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,Sedona,Desert Spa Stay,local experience,161.12,16.5,4.0,9.0,4.0,5.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Riviera Maya,All Inclusive Hotels,nearby district,258.11,23.6,3.0,8.0,8.0,8.0,9.0,6.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Foz do Iguacu,Iguazu Falls Trails,main area,99.37,25.3,8.0,4.0,3.0,5.0,6.0,9.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Marsa Alam,Resort Coast,local experience,220.06,22.5,5.0,8.0,7.0,6.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Naxos,Budget Island Stay,nearby district,105.77,21.7,6.0,8.0,7.0,6.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Greece,Greece,Europe,Rhodes,Old Town and Beaches,nearby district,202.76,17.3,4.0,8.0,5.0,8.0,7.0,5.0,7.0,7.0,Standard Hotel,Coastal,Family
+Canada,Canada,North America,Vancouver Island,Quiet Coastal Stay,main area,169.61,8.8,4.0,9.0,6.0,7.0,7.0,4.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Yunnan,Tiger Leaping Gorge,day-trip zone,184.26,12.7,9.0,4.0,4.0,4.0,5.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Mendoza,Budget Wine Hostels,nearby district,57.77,13.6,6.0,4.0,6.0,7.0,8.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Cusco,Inca Trail,main area,104.22,19.3,8.0,6.0,4.0,5.0,6.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Munich,Bavarian Culture,nearby district,125.1,10.9,4.0,5.0,7.0,8.0,9.0,5.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Marsa Alam,Resort Coast,local experience,224.44,29.3,6.0,8.0,8.0,8.0,7.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Madrid,Museums and Parks,local experience,176.67,19.3,6.0,8.0,3.0,8.0,6.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Valencia,Science City,nearby district,185.96,,6.0,8.0,3.0,8.0,7.0,6.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Thailand,Thailand,Asia,Chiang Mai,Old City Temples,nearby district,140.25,26.3,,4.0,5.0,9.0,9.0,4.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Niagara Falls,Family Attractions,day-trip zone,160.03,7.4,5.0,7.0,4.0,7.0,8.0,5.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,Sedona,Desert Spa Stay,local experience,167.23,14.3,,8.0,4.0,4.0,8.0,3.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Pyrenees,Mountain Trails,main area,161.74,13.2,8.0,5.0,4.0,6.0,5.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Rotorua,Budget Motels,day-trip zone,80.21,8.5,5.0,6.0,6.0,7.0,9.0,6.0,7.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+South Africa,South Africa,Africa,Durban,Budget Beachfront,day-trip zone,111.45,16.4,5.0,8.0,7.0,8.0,6.0,5.0,7.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Japan,Japan,Asia,Kyoto,Zen Gardens,day-trip zone,113.84,17.4,,7.0,6.0,6.0,8.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Naxos,Calm Family Coast,local experience,194.13,22.7,5.0,8.0,4.0,7.0,7.0,6.0,7.0,10.0,Standard Hotel,Coastal,Family
+Australia,Australia,Oceania,Gold Coast,Beach Resorts,main area,163.39,19.6,5.0,8.0,5.0,8.0,6.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Agadir,Beach Resorts,nearby district,136.84,20.6,5.0,,5.0,5.0,9.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Madrid,Museums and Parks,local experience,,19.1,6.0,7.0,3.0,8.0,6.0,7.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Goa,Budget Beach Huts,day-trip zone,92.62,,5.0,8.0,6.0,6.0,7.0,6.0,5.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Greece,Greece,Europe,Athens,Hostel Center,local experience,102.98,19.4,5.0,7.0,6.0,7.0,8.0,6.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Seville,Alcazar and Flamenco,day-trip zone,154.21,20.7,3.0,4.0,6.0,8.0,7.0,4.0,7.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Kanazawa,Samurai and Gardens,local experience,120.8,13.8,5.0,3.0,5.0,10.0,9.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Luxor,Nile Cruise,nearby district,236.14,22.8,5.0,8.0,6.0,6.0,9.0,5.0,5.0,6.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Florianopolis,Family Beaches,nearby district,,19.8,6.0,8.0,5.0,8.0,8.0,6.0,5.0,6.0,Standard Hotel,Coastal,Family
+Mexico,Mexico,North America,Merida,Budget Heritage Base,day-trip zone,86.45,23.0,5.0,5.0,6.0,8.0,,7.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Hoi An,Slow Riverside Stay,day-trip zone,145.78,26.3,4.0,9.0,6.0,5.0,8.0,3.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Melbourne,Hostel Laneways,main area,109.99,25.1,5.0,5.0,5.0,6.0,9.0,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Buenos Aires,Palermo Hostel Area,local experience,83.23,18.7,6.0,5.0,6.0,5.0,7.0,5.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Paris,Museums and Monuments,main area,136.55,9.6,3.0,3.0,6.0,10.0,10.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Lima,Affordable Food Stay,nearby district,73.74,16.8,5.0,5.0,7.0,8.0,8.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Goa,Budget Beach Huts,day-trip zone,97.44,30.4,3.0,8.0,5.0,6.0,7.0,6.0,6.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Egypt,Egypt,Africa,Luxor,Valley of the Kings,nearby district,132.34,24.4,4.0,4.0,7.0,9.0,8.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Hue,Imperial City,nearby district,138.41,25.1,4.0,4.0,6.0,8.0,10.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Black Forest,Family Trails,day-trip zone,144.47,10.1,6.0,8.0,4.0,6.0,8.0,5.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+Germany,Germany,Europe,Rugen,Baltic Beaches,day-trip zone,125.39,17.7,4.0,9.0,5.0,6.0,8.0,5.0,9.0,8.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Dahab,Budget Diving Hostels,main area,69.86,23.0,6.0,5.0,5.0,7.0,7.0,7.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Watamu,Quiet Beaches,nearby district,145.35,,5.0,9.0,5.0,6.0,8.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Riviera Maya,All Inclusive Hotels,nearby district,254.4,20.2,5.0,7.0,8.0,5.0,9.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Johannesburg,Apartheid Museum,nearby district,172.8,15.4,5.0,4.0,6.0,8.0,8.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Da Nang,Beach Coast,main area,162.06,28.7,4.0,10.0,,6.0,6.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Phuket,Beach Resorts,main area,131.14,32.1,4.0,9.0,6.0,5.0,6.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Da Nang,Family Beaches,main area,150.23,33.0,4.0,8.0,2.0,7.0,6.0,6.0,7.0,7.0,Standard Hotel,Coastal,Family
+Vietnam,Vietnam,Asia,Hoi An,Slow Riverside Stay,day-trip zone,156.41,27.4,6.0,9.0,5.0,5.0,7.0,5.0,9.0,7.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Queenstown,Lake Activities,day-trip zone,159.46,10.2,6.0,5.0,3.0,7.0,6.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Germany,Germany,Europe,Berlin,High-end Culture Stay,local experience,211.4,9.6,4.0,8.0,7.0,8.0,8.0,4.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Cape Town,Aquarium and Cableway,main area,165.25,17.6,5.0,6.0,4.0,5.0,7.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Germany,Germany,Europe,Rugen,Baltic Beaches,day-trip zone,135.85,8.6,5.0,9.0,5.0,5.0,7.0,3.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Dahab,Slow Coastal Stay,day-trip zone,128.76,21.9,5.0,8.0,5.0,5.0,8.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Rio de Janeiro,Copacabana Luxury Hotels,main area,192.8,27.0,4.0,7.0,8.0,6.0,10.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Crete,Samaria Gorge,main area,187.82,19.3,8.0,5.0,4.0,5.0,,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Niseko,Ski Resorts,local experience,218.41,18.2,3.0,8.0,7.0,6.0,9.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Crete,Five Star Coast,day-trip zone,318.53,15.5,5.0,8.0,7.0,6.0,10.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Kerala,Western Ghats Trails,local experience,130.94,26.0,10.0,5.0,5.0,5.0,7.0,8.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Durban,Budget Beachfront,day-trip zone,103.23,17.4,5.0,8.0,5.0,6.0,7.0,4.0,6.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Japan,Japan,Asia,Kyoto,Ryokan Stays,nearby district,206.27,11.6,4.0,6.0,7.0,8.0,9.0,5.0,8.0,10.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Lamu,Slow Island Stay,local experience,129.18,21.2,5.0,8.0,5.0,6.0,6.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Puerto Vallarta,Pacific Beaches,day-trip zone,155.04,26.4,4.0,9.0,4.0,5.0,7.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Northern Territory,Uluru Desert Routes,local experience,155.95,22.2,9.0,5.0,4.0,6.0,7.0,9.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Nairobi,Museums and Markets,main area,153.47,25.0,4.0,4.0,6.0,8.0,8.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Amazonas,Amazon Jungle Lodges,day-trip zone,111.39,25.2,6.0,4.0,5.0,7.0,7.0,8.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Essaouira,Walkable Medina,local experience,157.37,24.1,5.0,7.0,2.0,8.0,5.0,4.0,6.0,10.0,Standard Hotel,Urban-Heritage,Family
+Argentina,Argentina,South America,El Chalten,Fitz Roy Trails,main area,126.57,18.1,8.0,4.0,3.0,6.0,7.0,8.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+USA,USA,North America,San Antonio,Affordable Heritage,local experience,102.99,13.6,5.0,5.0,6.0,8.0,7.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Melbourne,Hostel Laneways,main area,110.22,18.9,6.0,3.0,5.0,7.0,6.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Cusco,Boutique Heritage Hotels,day-trip zone,196.59,17.6,4.0,7.0,7.0,8.0,10.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Okinawa,Island Beaches,main area,126.44,16.9,4.0,9.0,6.0,6.0,7.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Lake Garda,Family Parks,local experience,203.6,15.1,6.0,6.0,,6.0,7.0,6.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Japan,Japan,Asia,Okinawa,Island Beaches,main area,109.68,15.9,,8.0,5.0,4.0,8.0,,9.0,9.0,Resort/Apartment,Coastal,Relaxation
+Japan,Japan,Asia,Kyoto,Ryokan Stays,nearby district,216.54,17.4,4.0,5.0,7.0,6.0,8.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Maori Culture,nearby district,140.99,9.9,5.0,1.0,5.0,9.0,8.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Sao Paulo,Fine Dining Hotels,day-trip zone,201.57,24.9,3.0,7.0,,8.0,7.0,5.0,6.0,,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Oaxaca,Food and Markets,nearby district,144.09,18.5,3.0,5.0,6.0,9.0,8.0,4.0,6.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Ouro Preto,Colonial Heritage,day-trip zone,98.25,26.8,3.0,3.0,6.0,9.0,7.0,5.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Aspen,Mountain Luxury,day-trip zone,271.82,12.7,6.0,7.0,6.0,7.0,7.0,5.0,8.0,7.0,Resort/Apartment,Mountain-Nature,Luxury
+Morocco,Morocco,Africa,Marrakech,Budget Medina Hostels,nearby district,72.12,24.8,5.0,5.0,7.0,8.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Cinque Terre,Coastal Trails,day-trip zone,164.19,18.4,8.0,8.0,3.0,5.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Rotorua,Premium Spa Lodges,local experience,253.91,11.9,5.0,8.0,7.0,5.0,9.0,6.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Ouro Preto,Colonial Heritage,day-trip zone,97.67,24.9,4.0,4.0,7.0,9.0,8.0,5.0,4.0,5.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mendoza,Aconcagua Foothills,day-trip zone,126.02,14.8,8.0,4.0,3.0,5.0,7.0,8.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Tongariro,Alpine Crossing,local experience,123.41,13.5,10.0,3.0,3.0,5.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Crete,Five Star Coast,day-trip zone,325.13,21.8,,8.0,7.0,8.0,9.0,6.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Lake Como,Luxury Villas,main area,309.5,14.9,5.0,8.0,7.0,7.0,9.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Lamu,Slow Island Stay,local experience,147.31,22.1,3.0,9.0,6.0,4.0,8.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,New York City,Luxury Hotels,main area,253.37,11.8,5.0,6.0,,8.0,9.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Kerala,Luxury Backwater Resorts,local experience,227.75,19.2,5.0,8.0,7.0,6.0,8.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Mendoza,Budget Wine Hostels,nearby district,74.08,18.8,6.0,4.0,6.0,6.0,8.0,4.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Marrakech,Luxury Riads,main area,244.34,22.6,5.0,7.0,6.0,7.0,7.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Jaipur,Heritage Palaces,nearby district,231.86,26.0,3.0,,9.0,8.0,8.0,6.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Gold Coast,Beach Resorts,main area,162.66,21.6,5.0,9.0,6.0,8.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Hanoi,Budget Street Food,main area,79.6,27.9,5.0,7.0,5.0,5.0,7.0,4.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Turin,Affordable Museums,local experience,,,6.0,5.0,5.0,8.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Mombasa,Affordable Coast,nearby district,84.86,22.3,5.0,8.0,6.0,8.0,7.0,5.0,9.0,6.0,Guesthouse/Hostel,Coastal,Budget
+South Africa,South Africa,Africa,Cape Town,Aquarium and Cableway,main area,160.88,19.0,5.0,6.0,4.0,,6.0,5.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+Germany,Germany,Europe,Black Forest,Family Trails,day-trip zone,144.24,10.2,7.0,7.0,3.0,7.0,7.0,4.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Argentina,Argentina,South America,Mendoza,Budget Wine Hostels,nearby district,81.09,14.9,5.0,5.0,,6.0,6.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Ho Chi Minh City,War History and Markets,local experience,133.78,29.2,4.0,3.0,5.0,9.0,8.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Bariloche,Lake Resorts,day-trip zone,233.62,16.4,3.0,7.0,7.0,8.0,8.0,3.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Morocco,Morocco,Africa,Atlas Mountains,Kasbah Retreats,day-trip zone,231.94,23.4,6.0,7.0,7.0,7.0,,5.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+Brazil,Brazil,South America,Buzios,Beach Town,nearby district,103.59,21.8,6.0,8.0,5.0,5.0,7.0,4.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Madrid,Hostel Neighborhoods,local experience,103.43,20.7,5.0,6.0,7.0,8.0,7.0,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Bordeaux,Wine Country,local experience,131.47,13.0,5.0,9.0,4.0,5.0,5.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Halifax,Budget Harbor Stay,day-trip zone,98.45,4.3,7.0,6.0,6.0,7.0,6.0,4.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Venice,Canals and Palaces,day-trip zone,180.69,16.6,5.0,3.0,5.0,9.0,8.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Phuket,Family Beach Resorts,main area,136.93,29.2,4.0,8.0,2.0,7.0,6.0,5.0,6.0,7.0,Standard Hotel,Coastal,Family
+Canada,Canada,North America,Whistler,Ski Resorts,local experience,270.23,2.8,4.0,10.0,8.0,6.0,9.0,5.0,5.0,10.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Phuket,Family Beach Resorts,main area,155.61,31.4,6.0,8.0,3.0,5.0,8.0,4.0,6.0,8.0,Standard Hotel,Coastal,Family
+USA,USA,North America,New York City,Luxury Hotels,main area,258.35,13.4,3.0,8.0,7.0,8.0,10.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Rishikesh,Yoga Retreats,day-trip zone,148.14,28.8,6.0,8.0,5.0,5.0,8.0,5.0,8.0,7.0,Resort/Apartment,Mountain-Nature,Relaxation
+New Zealand,New Zealand,Oceania,Dunedin,Heritage Quarter,local experience,143.84,14.1,4.0,4.0,7.0,10.0,8.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Halifax,Budget Harbor Stay,day-trip zone,94.63,6.0,3.0,5.0,6.0,6.0,9.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+South Africa,South Africa,Africa,Kruger,Safari Drives,local experience,,21.4,7.0,4.0,3.0,5.0,6.0,,10.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Lamu,Slow Island Stay,local experience,151.66,23.6,6.0,9.0,5.0,6.0,,5.0,9.0,6.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Leipzig,Affordable Arts Scene,main area,90.06,8.2,5.0,5.0,6.0,5.0,8.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Hangzhou,West Lake,nearby district,190.7,13.9,3.0,8.0,5.0,5.0,7.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Krabi,Rock Climbing,nearby district,125.27,27.0,8.0,3.0,4.0,6.0,5.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Guilin,River Family Tours,local experience,222.62,10.6,5.0,6.0,3.0,6.0,8.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Jaipur,Budget Heritage Hostels,main area,83.86,25.4,6.0,5.0,6.0,8.0,8.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Jaipur,Heritage Palaces,nearby district,211.14,25.2,3.0,7.0,7.0,8.0,10.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Rishikesh,Yoga Retreats,day-trip zone,141.3,28.7,6.0,8.0,5.0,5.0,8.0,5.0,8.0,6.0,Resort/Apartment,Mountain-Nature,Relaxation
+Mexico,Mexico,North America,Puerto Vallarta,High-end Coast,local experience,267.4,22.2,6.0,8.0,7.0,7.0,6.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Arequipa,Colonial Center,day-trip zone,130.65,14.4,4.0,4.0,6.0,8.0,8.0,4.0,6.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Venice,Boat Rides,nearby district,201.36,14.0,5.0,6.0,3.0,5.0,7.0,,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,Aspen,Mountain Luxury,day-trip zone,265.02,14.0,6.0,6.0,6.0,5.0,10.0,5.0,8.0,6.0,Resort/Apartment,Mountain-Nature,Luxury
+Brazil,Brazil,South America,Bahia,Praia do Forte,local experience,109.1,27.4,4.0,9.0,6.0,6.0,7.0,4.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Rotorua,Maori Culture,nearby district,165.54,13.1,3.0,3.0,6.0,8.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Dolomites,Alpine Hikes,main area,180.47,16.9,9.0,5.0,4.0,4.0,7.0,8.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Marrakech,Luxury Riads,main area,244.64,24.5,6.0,7.0,9.0,7.0,8.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Corsica,GR20 Sections,day-trip zone,,6.7,8.0,4.0,3.0,6.0,7.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Durban,Indian Ocean Culture,local experience,139.36,18.7,3.0,8.0,5.0,8.0,8.0,4.0,5.0,6.0,Standard Hotel,Coastal,Culture
+Peru,Peru,South America,Lima,Affordable Food Stay,nearby district,84.34,16.8,5.0,4.0,6.0,7.0,9.0,6.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Mendoza,Luxury Wine Estates,main area,231.57,13.9,4.0,9.0,7.0,7.0,8.0,6.0,4.0,7.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Pai,Mountain Roads,local experience,139.68,33.6,8.0,3.0,4.0,5.0,6.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Rishikesh,Rafting and Yoga,nearby district,114.98,29.9,8.0,6.0,5.0,5.0,8.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Wellington,Budget City Hostels,main area,87.62,13.5,5.0,6.0,6.0,8.0,8.0,6.0,5.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Vancouver Island,Quiet Coastal Stay,main area,164.47,9.2,5.0,9.0,5.0,6.0,8.0,5.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Lamu,Slow Island Stay,local experience,150.67,25.6,4.0,8.0,5.0,4.0,7.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Berchtesgaden,Alpine Lakes,local experience,108.44,13.3,8.0,5.0,3.0,7.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Santorini,Cliffside Hotels,main area,296.29,16.7,4.0,8.0,8.0,8.0,8.0,3.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Maasai Mara,Family Safari,nearby district,144.87,22.3,6.0,7.0,3.0,5.0,6.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Sharm El Sheikh,Red Sea Resorts,main area,146.66,23.2,3.0,9.0,5.0,5.0,6.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Venice,Canals and Palaces,day-trip zone,174.99,9.2,3.0,4.0,4.0,9.0,9.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Muskoka,Lake Cottages,day-trip zone,158.83,6.0,4.0,7.0,5.0,5.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Rhodes,Old Town and Beaches,nearby district,213.24,20.4,6.0,8.0,3.0,8.0,8.0,5.0,7.0,8.0,Standard Hotel,Coastal,Family
+China,China,Asia,Suzhou,Classical Gardens,day-trip zone,165.48,14.3,4.0,4.0,5.0,9.0,7.0,4.0,7.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Gold Coast,Beach Resorts,main area,160.78,22.1,4.0,8.0,,8.0,7.0,4.0,6.0,,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,San Diego,Zoo and Beaches,nearby district,162.84,13.6,4.0,8.0,4.0,7.0,6.0,5.0,6.0,8.0,Standard Hotel,Coastal,Family
+China,China,Asia,Xi’an,Budget Heritage Stay,nearby district,125.75,8.9,,4.0,7.0,8.0,7.0,6.0,4.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Turin,Affordable Museums,local experience,107.9,16.6,4.0,4.0,7.0,8.0,7.0,5.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Hamburg,Budget Harbor Stay,day-trip zone,69.17,11.2,4.0,6.0,4.0,6.0,8.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Egypt,Egypt,Africa,Luxor,Valley of the Kings,nearby district,120.77,25.3,4.0,4.0,,8.0,7.0,2.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Alexandria,Mediterranean Heritage,local experience,131.85,24.7,5.0,5.0,5.0,9.0,8.0,4.0,5.0,5.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Cusco,Boutique Heritage Hotels,day-trip zone,217.34,19.1,3.0,7.0,8.0,8.0,8.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Luxor,Valley of the Kings,nearby district,118.52,26.2,4.0,3.0,6.0,9.0,8.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Music and Food,day-trip zone,149.48,13.3,4.0,4.0,7.0,9.0,8.0,4.0,6.0,,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Chiang Mai,Budget Guesthouses,main area,77.11,29.9,4.0,5.0,6.0,7.0,5.0,7.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Da Nang,Budget Beach Stay,day-trip zone,82.96,24.1,6.0,8.0,5.0,7.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Egypt,Egypt,Africa,Luxor,Nile Cruise,nearby district,228.46,23.0,5.0,8.0,7.0,8.0,7.0,4.0,,8.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Hangzhou,West Lake,nearby district,182.34,14.9,4.0,8.0,5.0,4.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Kruger,Safari Drives,local experience,123.61,18.1,8.0,5.0,5.0,6.0,7.0,9.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Zagori,Vikos Gorge,day-trip zone,188.93,15.6,9.0,4.0,4.0,5.0,6.0,10.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Noosa,Sunshine Coast Beaches,day-trip zone,149.44,21.4,6.0,8.0,5.0,6.0,9.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Nairobi,Museums and Markets,main area,150.65,16.4,4.0,3.0,5.0,10.0,8.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Zhangjiajie,Avatar Mountains,main area,168.59,15.0,8.0,5.0,4.0,6.0,6.0,10.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Cairo,Pyramids Family Tours,main area,141.6,22.6,5.0,7.0,4.0,,7.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Lake Como,Luxury Villas,main area,318.23,19.3,4.0,6.0,7.0,7.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Canada,Canada,North America,Vancouver Island,Coastal Trails,local experience,174.24,5.6,8.0,8.0,5.0,7.0,6.0,8.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Mendoza,Luxury Wine Estates,main area,235.97,15.7,3.0,8.0,7.0,7.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Nagoya,Affordable Base,day-trip zone,71.3,11.2,5.0,6.0,5.0,7.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Shanghai,Disney Resort,nearby district,207.9,14.2,5.0,7.0,4.0,6.0,6.0,6.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Thailand,Thailand,Asia,Pai,Backpacker Town,day-trip zone,65.06,29.4,6.0,6.0,6.0,6.0,,7.0,4.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Japan,Japan,Asia,Niseko,Ski Resorts,local experience,204.74,15.5,4.0,7.0,7.0,7.0,9.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Huaraz,Budget Trekking Base,local experience,95.85,21.7,6.0,6.0,7.0,5.0,6.0,7.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Budget
+Argentina,Argentina,South America,Bariloche,Family Lake Trips,nearby district,122.96,9.1,5.0,8.0,5.0,6.0,7.0,4.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Suzhou,Classical Gardens,day-trip zone,193.0,14.7,3.0,3.0,5.0,10.0,8.0,3.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Cusco,Family Heritage Tours,nearby district,131.14,19.3,5.0,6.0,3.0,8.0,,5.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Thailand,Thailand,Asia,Sukhothai,Historical Park,local experience,128.08,25.5,6.0,2.0,5.0,8.0,9.0,4.0,8.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Munich,Parks and Museums,main area,135.41,9.9,6.0,7.0,2.0,8.0,7.0,6.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Kenya,Kenya,Africa,Maasai Mara,Safari Drives,main area,129.15,20.4,8.0,5.0,4.0,6.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Dahab,Budget Diving Hostels,main area,66.27,24.4,6.0,4.0,6.0,8.0,7.0,7.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Mombasa,Old Town,day-trip zone,140.28,20.9,4.0,3.0,6.0,10.0,9.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Yellowstone,Family Nature Trip,local experience,158.89,13.0,5.0,7.0,3.0,8.0,8.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Madrid,High-end City Stay,day-trip zone,271.88,15.9,5.0,8.0,7.0,8.0,9.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Florianopolis,Family Beaches,nearby district,102.79,25.8,5.0,8.0,3.0,7.0,5.0,5.0,7.0,7.0,Standard Hotel,Coastal,Family
+Mexico,Mexico,North America,Riviera Maya,All Inclusive Hotels,nearby district,270.55,,4.0,8.0,7.0,7.0,9.0,4.0,6.0,,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Bariloche,Lake Resorts,day-trip zone,230.52,11.8,4.0,8.0,8.0,7.0,7.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Rhodes,Island Beaches,local experience,193.89,17.6,5.0,9.0,5.0,3.0,6.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Agra,Monument Family Tours,main area,138.56,23.0,5.0,7.0,3.0,9.0,7.0,5.0,6.0,6.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Essaouira,Affordable Coast,local experience,98.04,22.1,5.0,8.0,5.0,5.0,7.0,6.0,4.0,7.0,Guesthouse/Hostel,Coastal,Budget
+China,China,Asia,Beijing,Palace Hotels,day-trip zone,299.46,13.7,4.0,6.0,7.0,8.0,9.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Shanghai,Bund Luxury Hotels,main area,310.08,14.4,3.0,8.0,7.0,,8.0,5.0,7.0,10.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Mendoza,Aconcagua Foothills,day-trip zone,107.4,16.0,8.0,4.0,4.0,4.0,5.0,9.0,8.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Northern Territory,Uluru Desert Routes,local experience,159.9,21.6,8.0,4.0,5.0,6.0,8.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Paris,Palace Hotels,main area,221.06,16.5,3.0,8.0,9.0,8.0,9.0,4.0,,8.0,Resort/Apartment,Coastal,Luxury
+Morocco,Morocco,Africa,Marrakech,Riad Spa Stay,local experience,149.77,25.1,5.0,9.0,5.0,5.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Maasai Mara,Safari Drives,main area,119.51,22.4,9.0,6.0,5.0,6.0,8.0,8.0,,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Nara,Ancient Shrines,nearby district,123.38,13.0,5.0,4.0,5.0,8.0,8.0,3.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Toronto,Zoo and Museums,main area,181.2,10.8,5.0,4.0,,8.0,7.0,5.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Marrakech,Riad Spa Stay,local experience,152.27,27.6,4.0,10.0,5.0,5.0,6.0,7.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Arequipa,Colonial Center,day-trip zone,126.87,17.4,3.0,5.0,6.0,10.0,6.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Osaka,Affordable Food Districts,main area,76.39,13.7,5.0,5.0,6.0,5.0,7.0,6.0,7.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Cairns,Reef Family Tours,day-trip zone,173.8,20.6,5.0,8.0,3.0,7.0,6.0,4.0,6.0,9.0,Standard Hotel,Coastal,Family
+Peru,Peru,South America,Huaraz,Budget Trekking Base,local experience,92.26,21.1,6.0,6.0,6.0,6.0,7.0,6.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Budget
+Japan,Japan,Asia,Nara,Deer Park,day-trip zone,128.95,16.1,6.0,6.0,4.0,7.0,8.0,6.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+Argentina,Argentina,South America,Buenos Aires,Palermo Hostel Area,local experience,77.75,18.3,4.0,5.0,6.0,7.0,9.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Greece,Greece,Europe,Naxos,Calm Family Coast,local experience,191.7,21.2,6.0,8.0,4.0,8.0,8.0,6.0,7.0,9.0,Standard Hotel,Coastal,Family
+Australia,Australia,Oceania,Canberra,National Institutions,local experience,168.77,23.4,3.0,4.0,5.0,8.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Cologne,Cathedral Quarter,local experience,99.98,12.0,4.0,3.0,5.0,8.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Curitiba,Parks and Museums,local experience,89.35,23.7,6.0,7.0,3.0,8.0,7.0,5.0,8.0,6.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Seville,Alcazar and Flamenco,day-trip zone,161.48,18.5,4.0,4.0,7.0,9.0,8.0,4.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Hamburg,Budget Harbor Stay,day-trip zone,76.8,8.7,5.0,,6.0,6.0,7.0,4.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Tuscany,Countryside Stay,nearby district,173.96,13.6,6.0,8.0,5.0,5.0,6.0,5.0,9.0,9.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Sao Paulo,Fine Dining Hotels,day-trip zone,189.88,25.3,4.0,7.0,7.0,7.0,8.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Costa del Sol,Resort Coast,nearby district,154.57,18.5,4.0,10.0,,3.0,7.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Japan,Japan,Asia,Nara,Ancient Shrines,nearby district,125.43,14.8,4.0,,6.0,9.0,9.0,5.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Amazonas,Amazon Jungle Lodges,day-trip zone,101.44,23.5,9.0,4.0,4.0,5.0,7.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Corsica,GR20 Sections,day-trip zone,106.29,12.3,9.0,5.0,5.0,6.0,6.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Dali,Lake Retreat,local experience,192.86,16.7,6.0,9.0,5.0,,6.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Kruger,Family Safari,day-trip zone,167.84,20.0,5.0,7.0,4.0,6.0,8.0,6.0,7.0,5.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Puebla,Colonial Center,local experience,145.89,21.6,5.0,3.0,6.0,10.0,9.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Affordable Music Stay,nearby district,89.36,11.5,5.0,5.0,5.0,5.0,6.0,5.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Canary Islands,Year-round Sun,local experience,164.94,20.6,4.0,8.0,5.0,6.0,7.0,4.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Maasai Mara,Family Safari,nearby district,160.64,27.3,5.0,6.0,2.0,7.0,7.0,6.0,6.0,,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Red Sea,Diving Trips,local experience,114.35,24.7,8.0,8.0,5.0,6.0,6.0,8.0,10.0,7.0,Guesthouse/Hostel,Coastal,Adventure
+Spain,Spain,Europe,Valencia,Science City,nearby district,173.04,19.0,4.0,9.0,3.0,8.0,7.0,5.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Tuscany,Countryside Stay,nearby district,192.11,14.8,4.0,8.0,4.0,6.0,8.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Nairobi,High-end Hotels,day-trip zone,226.46,20.6,4.0,9.0,8.0,6.0,9.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Oaxaca,Budget Food Stay,main area,97.7,24.1,5.0,4.0,5.0,7.0,6.0,6.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Wellington,Budget City Hostels,main area,94.15,18.7,6.0,4.0,6.0,8.0,8.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Rotorua,Maori Culture,nearby district,151.86,13.6,5.0,2.0,6.0,9.0,7.0,4.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+New Zealand,New Zealand,Oceania,Rotorua,Budget Motels,day-trip zone,87.83,,5.0,5.0,7.0,6.0,8.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Delhi,Historic Monuments,local experience,119.79,25.7,5.0,3.0,6.0,10.0,7.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,San Diego,Zoo and Beaches,nearby district,168.1,14.1,4.0,8.0,4.0,6.0,7.0,5.0,8.0,6.0,Standard Hotel,Coastal,Family
+Canada,Canada,North America,Muskoka,Lake Cottages,day-trip zone,172.19,6.9,4.0,7.0,4.0,5.0,6.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Bay of Islands,Coastal Retreat,main area,153.5,14.1,6.0,10.0,6.0,5.0,7.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Bordeaux,Wine Country,local experience,131.23,18.2,4.0,7.0,5.0,7.0,8.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Jasper,Glacier Hikes,nearby district,149.14,7.3,,4.0,4.0,6.0,7.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Baden-Baden,Thermal Spas,main area,,6.0,5.0,8.0,5.0,4.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Marrakech,Medina and Souks,main area,133.1,22.4,4.0,4.0,7.0,10.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Vancouver Island,Coastal Trails,local experience,156.3,5.6,8.0,8.0,5.0,5.0,7.0,8.0,9.0,10.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Kyoto,Zen Gardens,day-trip zone,112.5,12.7,4.0,9.0,6.0,4.0,6.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Andalusia,Sierra Nevada Routes,day-trip zone,148.27,21.2,8.0,6.0,4.0,6.0,6.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Goa,Budget Beach Huts,day-trip zone,67.09,25.5,5.0,8.0,6.0,7.0,7.0,6.0,6.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Japan,Japan,Asia,Okinawa,Diving Islands,local experience,114.56,16.2,9.0,8.0,4.0,5.0,6.0,8.0,8.0,8.0,Guesthouse/Hostel,Coastal,Adventure
+Spain,Spain,Europe,Seville,Alcazar and Flamenco,day-trip zone,166.95,13.6,5.0,,7.0,9.0,8.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Paracas,Coastal Reserve,nearby district,128.26,23.1,4.0,9.0,4.0,5.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Dolomites,Alpine Hikes,main area,154.75,14.4,9.0,5.0,4.0,5.0,6.0,8.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Koh Samui,Luxury Villas,nearby district,217.05,27.7,5.0,7.0,9.0,7.0,9.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Paracas,Boat Wildlife Tours,local experience,126.48,16.0,4.0,7.0,3.0,5.0,7.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Argentina,Argentina,South America,Bariloche,Family Lake Trips,nearby district,154.87,14.8,5.0,7.0,2.0,6.0,7.0,6.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Chamonix,Mont Blanc Trails,main area,122.16,15.5,8.0,3.0,3.0,7.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Marsa Alam,Resort Coast,local experience,230.48,21.7,5.0,8.0,7.0,7.0,8.0,4.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Adelaide,Affordable City Break,day-trip zone,102.74,20.7,6.0,5.0,6.0,8.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Essaouira,Affordable Coast,local experience,81.69,24.3,6.0,8.0,7.0,7.0,7.0,6.0,6.0,7.0,Guesthouse/Hostel,Coastal,Budget
+India,India,Asia,Varanasi,Ganges Ghats,nearby district,134.09,24.2,3.0,4.0,7.0,9.0,9.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Rhodes,Old Town and Beaches,nearby district,201.16,17.8,5.0,8.0,5.0,8.0,6.0,5.0,8.0,8.0,Standard Hotel,Coastal,Family
+Peru,Peru,South America,Cusco,Family Heritage Tours,nearby district,133.15,15.2,5.0,6.0,3.0,8.0,8.0,6.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Beijing,Forbidden City,main area,188.22,14.4,3.0,4.0,6.0,8.0,9.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Oaxaca,Food and Markets,nearby district,157.72,20.5,3.0,5.0,6.0,9.0,8.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Athens,Acropolis and Plaka,main area,181.0,17.1,3.0,3.0,6.0,9.0,8.0,5.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Marne-la-Vallee,Disneyland Paris,nearby district,147.86,12.8,6.0,6.0,2.0,7.0,6.0,5.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Costa del Sol,Resort Coast,nearby district,177.07,18.9,3.0,9.0,5.0,6.0,6.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Whistler,Ski Resorts,local experience,285.85,6.8,6.0,5.0,7.0,7.0,9.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Goa,Beach Villages,main area,131.2,27.2,5.0,9.0,5.0,6.0,6.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Rotorua,Premium Spa Lodges,local experience,255.12,13.7,5.0,7.0,8.0,5.0,8.0,4.0,7.0,10.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Cairns,Reef Family Tours,day-trip zone,176.87,20.8,4.0,8.0,4.0,6.0,7.0,5.0,6.0,7.0,Standard Hotel,Coastal,Family
+Brazil,Brazil,South America,Salvador,Pelourinho Historic Center,main area,93.47,25.8,3.0,4.0,6.0,9.0,7.0,4.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Shanghai,Bund Luxury Hotels,main area,309.28,12.3,5.0,7.0,7.0,7.0,8.0,,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Merida,Budget Heritage Base,day-trip zone,78.28,23.9,5.0,6.0,6.0,8.0,8.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Rio de Janeiro,Copacabana Luxury Hotels,main area,191.31,22.5,4.0,6.0,8.0,9.0,9.0,4.0,4.0,5.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Cusco,Inca Trail,main area,120.31,15.7,9.0,4.0,4.0,6.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Nang,Budget Beach Stay,day-trip zone,91.91,25.9,6.0,8.0,5.0,6.0,6.0,6.0,5.0,7.0,Guesthouse/Hostel,Coastal,Budget
+China,China,Asia,Zhangjiajie,Avatar Mountains,main area,169.19,11.1,8.0,4.0,4.0,7.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Toronto,Luxury Downtown Hotels,nearby district,270.87,7.5,3.0,6.0,6.0,7.0,7.0,5.0,8.0,10.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Luxor,Budget Nile Hotels,day-trip zone,79.7,25.9,4.0,5.0,7.0,5.0,7.0,6.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Tigre,Delta Boat Escapes,local experience,142.51,13.9,4.0,9.0,5.0,5.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Maasai Mara,Luxury Safari Camps,main area,246.97,17.9,3.0,7.0,9.0,8.0,9.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Cape Winelands,Wine Estates,main area,159.56,21.1,5.0,8.0,4.0,5.0,8.0,3.0,7.0,5.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Beijing,Forbidden City,main area,173.35,8.6,4.0,5.0,7.0,9.0,8.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Chiang Mai,Ethical Elephant Parks,day-trip zone,139.41,27.7,6.0,8.0,3.0,6.0,6.0,6.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Greece,Greece,Europe,Rhodes,Island Beaches,local experience,189.23,23.0,6.0,9.0,5.0,7.0,7.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Lyon,Old Town and Food,day-trip zone,145.83,14.2,6.0,3.0,5.0,9.0,9.0,6.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Da Nang,Budget Beach Stay,day-trip zone,96.95,25.9,4.0,8.0,6.0,6.0,6.0,5.0,5.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Argentina,Argentina,South America,Salta,Colonial Center,day-trip zone,136.09,18.0,4.0,4.0,5.0,9.0,7.0,3.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Johannesburg,Apartheid Museum,nearby district,156.43,12.2,4.0,4.0,6.0,10.0,8.0,3.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Hanoi,Museums and Food,day-trip zone,132.07,31.0,5.0,7.0,2.0,8.0,7.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Corsica,GR20 Sections,day-trip zone,102.04,14.7,9.0,5.0,3.0,6.0,7.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Madrid,Museums and Parks,local experience,169.72,18.8,7.0,7.0,4.0,8.0,7.0,6.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Cusco,Inca Heritage,main area,114.06,17.2,3.0,4.0,5.0,9.0,9.0,5.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mendoza,Aconcagua Foothills,day-trip zone,135.62,17.4,9.0,5.0,3.0,6.0,5.0,8.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Krabi,Limestone Beaches,day-trip zone,136.07,27.0,4.0,8.0,6.0,5.0,7.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,Sedona,Desert Spa Stay,local experience,136.81,16.6,3.0,9.0,4.0,4.0,7.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Leipzig,Affordable Arts Scene,main area,87.43,12.3,5.0,6.0,7.0,6.0,7.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Lima,Affordable Food Stay,nearby district,69.69,20.3,5.0,5.0,5.0,5.0,6.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Sydney,Harbour Culture,nearby district,165.34,19.5,4.0,4.0,5.0,8.0,7.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Montreal,Arts and Food,nearby district,157.66,6.1,5.0,2.0,6.0,10.0,7.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Hanoi,Budget Street Food,main area,70.79,24.0,5.0,5.0,5.0,7.0,6.0,4.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,Florida Keys,Tropical Coast,nearby district,139.74,16.8,4.0,8.0,4.0,5.0,7.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Sukhothai,Historical Park,local experience,112.82,21.2,6.0,4.0,7.0,8.0,8.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Marrakech,Budget Medina Hostels,nearby district,96.24,22.1,4.0,5.0,6.0,8.0,7.0,6.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Lake Como,Lakeside Retreat,local experience,174.92,12.7,4.0,8.0,6.0,6.0,6.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Japan,Japan,Asia,Osaka,Affordable Food Districts,main area,78.05,11.7,4.0,5.0,6.0,5.0,8.0,5.0,7.0,10.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Ottawa,National Museums,local experience,164.89,6.5,3.0,3.0,5.0,9.0,8.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Music and Food,day-trip zone,145.44,15.8,4.0,5.0,6.0,9.0,9.0,5.0,4.0,,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Berchtesgaden,Alpine Lakes,local experience,122.63,10.1,8.0,5.0,5.0,6.0,7.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Aswan,Nile Desert Routes,nearby district,106.42,25.8,9.0,3.0,4.0,6.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Nang,Family Beaches,main area,152.52,26.0,4.0,8.0,3.0,6.0,7.0,5.0,7.0,8.0,Standard Hotel,Coastal,Family
+Egypt,Egypt,Africa,Luxor,Budget Nile Hotels,day-trip zone,89.95,22.5,6.0,5.0,7.0,7.0,8.0,4.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Japan,Japan,Asia,Nara,Ancient Shrines,nearby district,135.46,16.0,4.0,4.0,6.0,9.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Atlas Mountains,Toubkal Trails,main area,123.52,20.6,9.0,5.0,5.0,6.0,6.0,8.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Melbourne,Hostel Laneways,main area,96.36,22.2,5.0,4.0,5.0,5.0,7.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Bay of Islands,Luxury Lodges,nearby district,240.38,12.3,4.0,8.0,8.0,7.0,10.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Lima,Affordable Food Stay,nearby district,74.34,,6.0,5.0,5.0,6.0,8.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Black Forest,Forest Hikes,nearby district,112.64,10.3,10.0,3.0,4.0,6.0,7.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Rotorua,Maori Culture,nearby district,150.55,15.8,3.0,4.0,7.0,8.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nagano,Japanese Alps,nearby district,105.65,17.8,9.0,4.0,4.0,4.0,7.0,7.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Baden-Baden,Thermal Spas,main area,145.45,9.1,5.0,8.0,5.0,5.0,7.0,5.0,8.0,,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Tigre,Delta Boat Escapes,local experience,145.99,17.5,3.0,9.0,6.0,5.0,7.0,3.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Delhi,Historic Monuments,local experience,128.42,23.3,5.0,4.0,,9.0,8.0,4.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Knysna,Lagoon Stay,day-trip zone,163.17,15.9,3.0,7.0,5.0,7.0,8.0,3.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Dahab,Slow Coastal Stay,day-trip zone,130.88,26.7,6.0,9.0,4.0,5.0,7.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Villa La Angostura,Lakeside Retreat,nearby district,135.85,20.1,6.0,9.0,4.0,7.0,7.0,,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Baden-Baden,Spa Hotels,nearby district,219.43,10.0,3.0,7.0,6.0,7.0,8.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Rishikesh,Rafting and Yoga,nearby district,116.34,24.8,9.0,5.0,3.0,5.0,7.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Cologne,Cathedral Quarter,local experience,95.61,9.0,4.0,4.0,6.0,10.0,9.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Munich,Parks and Museums,main area,114.4,8.2,6.0,7.0,3.0,8.0,7.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Marrakech,Luxury Riads,main area,247.09,18.7,4.0,8.0,6.0,7.0,8.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Turin,Affordable Museums,local experience,112.38,17.0,5.0,6.0,7.0,8.0,7.0,7.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Rio de Janeiro,Copacabana Luxury Hotels,main area,189.28,21.8,3.0,6.0,8.0,7.0,8.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Mendoza,Budget Wine Hostels,nearby district,79.72,16.4,6.0,4.0,6.0,6.0,6.0,4.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Mexico,Mexico,North America,Riviera Maya,All Inclusive Hotels,nearby district,263.94,18.3,5.0,6.0,6.0,8.0,9.0,6.0,8.0,6.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Mombasa,Affordable Coast,nearby district,58.68,23.4,5.0,8.0,6.0,6.0,7.0,6.0,7.0,6.0,Guesthouse/Hostel,Coastal,Budget
+India,India,Asia,Jaipur,Budget Heritage Hostels,main area,60.71,24.5,6.0,5.0,6.0,8.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Ha Giang,Mountain Loop,nearby district,149.33,25.6,10.0,4.0,5.0,6.0,6.0,9.0,10.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Xi’an,Budget Heritage Stay,nearby district,107.12,9.4,6.0,5.0,7.0,8.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,San Antonio,Affordable Heritage,local experience,85.17,17.0,6.0,6.0,5.0,8.0,8.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Sukhothai,Historical Park,local experience,124.52,28.8,6.0,3.0,6.0,,7.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Lake Garda,Family Parks,local experience,189.72,13.1,6.0,6.0,2.0,7.0,7.0,6.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Canada,Canada,North America,Niagara Falls,Family Attractions,day-trip zone,183.17,6.2,5.0,6.0,3.0,8.0,8.0,5.0,7.0,,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Knysna,Lagoon Stay,day-trip zone,149.9,22.3,5.0,8.0,5.0,5.0,8.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Puerto Vallarta,Pacific Beaches,day-trip zone,160.74,23.9,4.0,9.0,5.0,5.0,7.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Cusco,Boutique Heritage Hotels,day-trip zone,201.69,14.6,5.0,6.0,8.0,8.0,9.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Paracas,Boat Wildlife Tours,local experience,147.17,17.2,6.0,7.0,4.0,6.0,7.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Sharm El Sheikh,Red Sea Resorts,main area,137.7,25.4,5.0,9.0,5.0,6.0,7.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Montreal,Arts and Food,nearby district,165.67,4.5,4.0,,6.0,10.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Buzios,Beach Town,nearby district,122.07,28.2,6.0,10.0,4.0,5.0,7.0,5.0,7.0,5.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Bay of Islands,Coastal Retreat,main area,145.03,17.1,5.0,9.0,4.0,5.0,6.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Arequipa,Slow Colonial Stay,local experience,133.8,19.4,4.0,9.0,4.0,4.0,7.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Da Nang,Luxury Beach Hotels,nearby district,253.2,34.9,5.0,8.0,6.0,6.0,8.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Salta,Colonial Center,day-trip zone,126.15,14.5,5.0,3.0,6.0,8.0,8.0,4.0,6.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Osaka,Affordable Food Districts,main area,78.33,15.4,4.0,6.0,6.0,7.0,7.0,,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,Florida Keys,Tropical Coast,nearby district,166.38,12.9,4.0,8.0,5.0,4.0,7.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Queenstown,Lake Activities,day-trip zone,166.2,12.7,5.0,7.0,4.0,7.0,7.0,5.0,7.0,10.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Cusco,Family Heritage Tours,nearby district,129.53,16.8,5.0,8.0,4.0,8.0,7.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Kunming,Affordable City Base,local experience,106.86,15.3,6.0,5.0,5.0,8.0,8.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Marbella,Luxury Resorts,main area,268.62,20.4,5.0,7.0,8.0,7.0,8.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Hanoi,Museums and Food,day-trip zone,142.95,27.1,6.0,7.0,2.0,8.0,8.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Greece,Greece,Europe,Mykonos,Beach Clubs,nearby district,197.88,18.5,5.0,8.0,6.0,7.0,7.0,3.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Essaouira,Affordable Coast,local experience,76.56,25.5,5.0,8.0,6.0,5.0,7.0,5.0,6.0,8.0,Guesthouse/Hostel,Coastal,Budget
+Brazil,Brazil,South America,Ouro Preto,Colonial Heritage,day-trip zone,90.33,21.7,4.0,1.0,,8.0,9.0,3.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Red Sea,Diving Trips,local experience,121.43,25.5,8.0,8.0,4.0,5.0,5.0,9.0,8.0,6.0,Guesthouse/Hostel,Coastal,Adventure
+France,France,Europe,Corsica,GR20 Sections,day-trip zone,125.24,15.0,9.0,6.0,4.0,5.0,7.0,6.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Chiang Mai,Old City Temples,nearby district,128.08,26.1,5.0,3.0,5.0,9.0,7.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nagano,Japanese Alps,nearby district,125.83,16.4,8.0,4.0,4.0,5.0,6.0,9.0,10.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Baden-Baden,Spa Hotels,nearby district,234.01,8.9,4.0,7.0,7.0,7.0,8.0,2.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Thessaloniki,Byzantine Heritage,day-trip zone,177.91,15.6,3.0,3.0,6.0,10.0,9.0,3.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Rome,Ancient Monuments,main area,178.97,15.4,4.0,4.0,6.0,8.0,10.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Munich,Bavarian Culture,nearby district,113.53,9.5,3.0,4.0,6.0,10.0,8.0,4.0,5.0,,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Canary Islands,Year-round Sun,local experience,157.24,23.7,5.0,9.0,4.0,5.0,,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Baden-Baden,Thermal Spas,main area,136.51,12.5,6.0,8.0,4.0,5.0,8.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Salvador,Pelourinho Historic Center,main area,110.25,26.8,4.0,6.0,6.0,9.0,7.0,4.0,6.0,5.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Puerto Vallarta,High-end Coast,local experience,264.41,21.8,5.0,8.0,7.0,7.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Maori Culture,nearby district,152.87,15.4,4.0,2.0,5.0,9.0,9.0,4.0,6.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Agadir,Beach Resorts,nearby district,160.16,24.6,5.0,9.0,6.0,6.0,7.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Port Douglas,Reef Luxury Stays,local experience,278.98,22.6,4.0,8.0,8.0,6.0,9.0,4.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Nagano,Japanese Alps,nearby district,128.0,18.0,9.0,6.0,4.0,6.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Pyrenees,Mountain Trails,main area,168.86,18.1,10.0,5.0,4.0,6.0,9.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Mombasa,Old Town,day-trip zone,148.82,20.5,3.0,4.0,7.0,10.0,7.0,4.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Arequipa,Colca Canyon,day-trip zone,110.35,20.2,8.0,3.0,,6.0,7.0,9.0,10.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Chiang Mai,Old City Temples,nearby district,129.05,31.6,4.0,4.0,7.0,,7.0,2.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,San Diego,Zoo and Beaches,nearby district,157.28,11.9,4.0,8.0,3.0,5.0,7.0,6.0,6.0,8.0,Standard Hotel,Coastal,Family
+Australia,Australia,Oceania,Adelaide,Affordable City Break,day-trip zone,115.98,21.8,7.0,5.0,7.0,8.0,7.0,5.0,4.0,,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Florianopolis,Family Beaches,nearby district,131.6,23.5,4.0,8.0,3.0,7.0,8.0,6.0,7.0,6.0,Standard Hotel,Coastal,Family
+Brazil,Brazil,South America,Curitiba,Parks and Museums,local experience,116.22,20.9,6.0,6.0,5.0,8.0,8.0,6.0,8.0,6.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Oaxaca,Budget Food Stay,main area,86.44,21.1,5.0,6.0,6.0,6.0,7.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,New York City,Museums and Broadway,main area,152.49,14.7,4.0,3.0,4.0,10.0,9.0,4.0,5.0,,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Lyon,Old Town and Food,day-trip zone,130.93,13.8,4.0,3.0,6.0,10.0,10.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Loire Valley,Castle Routes,local experience,150.19,9.2,5.0,7.0,5.0,6.0,7.0,5.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Venice,Boat Rides,nearby district,191.97,11.7,6.0,6.0,4.0,,6.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Hoi An,Slow Riverside Stay,day-trip zone,142.19,29.9,5.0,8.0,5.0,7.0,7.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,Utah,National Park Road Trip,main area,143.16,12.6,8.0,4.0,4.0,6.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Beijing,Forbidden City,main area,196.64,11.7,5.0,4.0,6.0,8.0,8.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Barcelona,Gaudi and Gothic Quarter,main area,169.01,,4.0,4.0,6.0,10.0,8.0,6.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Aswan,Nile Desert Routes,nearby district,124.46,25.4,7.0,4.0,4.0,5.0,6.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Muskoka,Lake Cottages,day-trip zone,,6.4,5.0,9.0,5.0,5.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Xi’an,Budget Heritage Stay,nearby district,87.49,10.6,5.0,5.0,7.0,8.0,7.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Rome,Ancient Monuments,main area,177.74,15.2,4.0,2.0,5.0,9.0,8.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Kenya,Kenya,Africa,Naivasha,Boat Trips,local experience,142.06,23.2,6.0,6.0,4.0,6.0,7.0,5.0,9.0,7.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Essaouira,Walkable Medina,local experience,163.26,23.0,6.0,6.0,2.0,8.0,6.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Marne-la-Vallee,Disneyland Paris,nearby district,153.13,11.4,5.0,7.0,2.0,6.0,8.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Cusco,Inca Trail,main area,105.61,19.1,9.0,5.0,3.0,5.0,6.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Italy,Italy,Europe,Rome,Ancient Monuments,main area,171.8,15.8,5.0,3.0,6.0,10.0,8.0,6.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Marrakech,Budget Medina Hostels,nearby district,78.81,22.1,4.0,7.0,6.0,8.0,7.0,,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Andalusia,Sierra Nevada Routes,day-trip zone,145.4,18.1,9.0,4.0,4.0,5.0,6.0,10.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Costa del Sol,Resort Coast,nearby district,159.23,18.2,4.0,8.0,5.0,5.0,6.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Guilin,River Family Tours,local experience,190.06,14.2,5.0,7.0,3.0,6.0,8.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Thailand,Thailand,Asia,Krabi,Limestone Beaches,day-trip zone,133.84,30.7,3.0,8.0,6.0,5.0,6.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Dali,Lake Retreat,local experience,195.36,11.6,3.0,10.0,4.0,4.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Copper Canyon,Rail and Hikes,nearby district,137.83,23.1,8.0,4.0,5.0,,8.0,9.0,10.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Cairns,Reef Family Tours,day-trip zone,172.89,19.1,5.0,8.0,3.0,7.0,7.0,5.0,6.0,8.0,Standard Hotel,Coastal,Family
+Argentina,Argentina,South America,Villa La Angostura,Lakeside Retreat,nearby district,130.05,18.5,7.0,8.0,5.0,5.0,7.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Zagori,Vikos Gorge,day-trip zone,158.45,20.9,8.0,5.0,4.0,4.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Atlas Mountains,Kasbah Retreats,day-trip zone,258.1,19.8,6.0,7.0,6.0,7.0,9.0,6.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+India,India,Asia,Rishikesh,Yoga Retreats,day-trip zone,137.24,26.5,6.0,9.0,6.0,6.0,8.0,5.0,8.0,6.0,Resort/Apartment,Mountain-Nature,Relaxation
+South Africa,South Africa,Africa,Cape Town,Aquarium and Cableway,main area,182.64,19.9,5.0,6.0,3.0,7.0,7.0,6.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Rishikesh,Rafting and Yoga,nearby district,125.82,24.8,8.0,5.0,3.0,4.0,5.0,8.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Nara,Ancient Shrines,nearby district,134.14,13.0,3.0,3.0,6.0,8.0,8.0,2.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Koh Samui,Luxury Villas,nearby district,234.29,27.9,5.0,7.0,7.0,6.0,9.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Paracas,Coastal Reserve,nearby district,115.13,14.9,3.0,8.0,6.0,4.0,6.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Whitsundays,Island Resorts,nearby district,296.26,24.6,,8.0,9.0,5.0,8.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Buenos Aires,San Telmo Historic Quarter,main area,138.29,16.1,4.0,4.0,6.0,9.0,7.0,5.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Black Forest,Family Trails,day-trip zone,121.11,12.5,6.0,5.0,2.0,6.0,6.0,4.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Kenya,Kenya,Africa,Maasai Mara,Safari Drives,main area,123.1,22.8,7.0,6.0,4.0,6.0,8.0,10.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Chiang Mai,Old City Temples,nearby district,137.88,25.2,3.0,5.0,6.0,9.0,7.0,4.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Kenya,Kenya,Africa,Naivasha,Boat Trips,local experience,153.68,21.1,5.0,8.0,4.0,4.0,9.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Puebla,Colonial Center,local experience,164.55,18.9,3.0,3.0,6.0,9.0,9.0,5.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Blue Mountains,Hiking Lookouts,nearby district,147.53,21.2,8.0,6.0,5.0,6.0,5.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Chiang Mai,Ethical Elephant Parks,day-trip zone,133.94,29.0,6.0,8.0,4.0,7.0,6.0,5.0,8.0,,Standard Hotel,Mountain-Nature,Family
+Vietnam,Vietnam,Asia,Hanoi,Museums and Food,day-trip zone,156.53,25.4,5.0,6.0,4.0,8.0,7.0,6.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Puebla,Colonial Center,local experience,137.42,22.5,4.0,3.0,6.0,7.0,9.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nara,Deer Park,day-trip zone,135.7,16.2,7.0,6.0,4.0,7.0,8.0,6.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+Germany,Germany,Europe,Berchtesgaden,Alpine Lakes,local experience,102.4,7.5,8.0,5.0,4.0,6.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Montreal,Arts and Food,nearby district,139.29,6.6,5.0,4.0,6.0,8.0,9.0,5.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Milan,Fashion Hotels,day-trip zone,312.31,14.7,5.0,8.0,7.0,7.0,9.0,5.0,8.0,9.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Provence,Lavender Villages,nearby district,143.34,15.7,5.0,8.0,5.0,4.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Villa La Angostura,Lakeside Retreat,nearby district,135.23,17.6,4.0,9.0,5.0,6.0,7.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Montreal,Student Hostels,main area,101.01,9.0,4.0,7.0,6.0,7.0,8.0,6.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Koh Samui,Luxury Villas,nearby district,225.71,31.4,4.0,7.0,8.0,6.0,9.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Knysna,Lagoon Stay,day-trip zone,152.24,21.1,4.0,9.0,5.0,6.0,7.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Atlas Mountains,Kasbah Retreats,day-trip zone,264.21,19.6,6.0,8.0,8.0,7.0,9.0,3.0,8.0,7.0,Resort/Apartment,Mountain-Nature,Luxury
+Australia,Australia,Oceania,Whitsundays,Island Resorts,nearby district,268.2,25.9,6.0,9.0,8.0,7.0,10.0,5.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Guilin,River Family Tours,local experience,204.2,12.2,7.0,8.0,4.0,8.0,6.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Paris,Palace Hotels,main area,232.41,15.7,3.0,7.0,7.0,8.0,9.0,8.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Hue,Imperial City,nearby district,136.77,29.1,5.0,5.0,6.0,8.0,9.0,3.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Toronto,Luxury Downtown Hotels,nearby district,273.36,6.0,3.0,6.0,8.0,7.0,8.0,5.0,7.0,10.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Athens,Hostel Center,local experience,103.47,22.6,5.0,5.0,6.0,6.0,6.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Curitiba,Parks and Museums,local experience,117.99,23.6,6.0,7.0,3.0,8.0,8.0,6.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Australia,Australia,Oceania,Gold Coast,Theme Parks,main area,165.76,23.4,6.0,8.0,4.0,8.0,6.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Brazil,Brazil,South America,Salvador,Pelourinho Historic Center,main area,108.25,24.0,3.0,5.0,6.0,10.0,8.0,4.0,5.0,5.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Alexandria,Mediterranean Heritage,local experience,118.14,21.7,4.0,3.0,6.0,10.0,9.0,5.0,3.0,7.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Garden Route,Boutique Lodges,local experience,263.63,16.4,5.0,7.0,7.0,7.0,10.0,4.0,6.0,5.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Goa,Beach Villages,main area,144.06,26.0,5.0,9.0,5.0,6.0,8.0,7.0,8.0,,Resort/Apartment,Coastal,Relaxation
+Japan,Japan,Asia,Tokyo,Disney and Museums,main area,112.49,12.7,5.0,5.0,3.0,8.0,8.0,6.0,8.0,10.0,Standard Hotel,Urban-Heritage,Family
+New Zealand,New Zealand,Oceania,Bay of Islands,Coastal Retreat,main area,155.47,14.1,4.0,9.0,5.0,5.0,9.0,4.0,,9.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Oaxaca,Sierra Norte Trails,local experience,133.62,19.2,9.0,5.0,3.0,6.0,7.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Cusco,Inca Trail,main area,119.66,18.2,8.0,5.0,5.0,5.0,7.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Ho Chi Minh City,War History and Markets,local experience,153.98,26.4,4.0,3.0,6.0,9.0,8.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Lyon,Hostel Neighborhoods,local experience,82.59,15.1,5.0,5.0,7.0,5.0,8.0,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Chiang Mai,Old City Temples,nearby district,138.36,31.8,5.0,5.0,6.0,9.0,9.0,6.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Blue Mountains,Hiking Lookouts,nearby district,133.27,18.6,9.0,5.0,4.0,7.0,7.0,9.0,,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Marrakech,Budget Medina Hostels,nearby district,90.85,20.9,5.0,6.0,5.0,8.0,8.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Marrakech,Medina and Souks,main area,150.0,24.9,4.0,3.0,7.0,9.0,8.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Luxor,Nile Cruise,nearby district,229.73,26.3,5.0,9.0,7.0,7.0,8.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Canada,Canada,North America,Ottawa,National Museums,local experience,156.09,6.4,5.0,3.0,7.0,9.0,,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mendoza,Luxury Wine Estates,main area,243.19,16.1,5.0,7.0,8.0,7.0,9.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Buenos Aires,San Telmo Historic Quarter,main area,130.92,14.2,4.0,2.0,4.0,10.0,9.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Durban,Budget Beachfront,day-trip zone,93.84,18.7,5.0,8.0,6.0,7.0,7.0,6.0,5.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Spain,Spain,Europe,Canary Islands,Year-round Sun,local experience,150.12,18.3,5.0,9.0,4.0,6.0,5.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Puerto Vallarta,Pacific Beaches,day-trip zone,143.79,24.6,4.0,10.0,4.0,4.0,7.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,El Chalten,Fitz Roy Trails,main area,127.36,13.7,9.0,5.0,3.0,5.0,7.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Goa,Beach Villages,main area,141.39,31.3,3.0,10.0,5.0,6.0,6.0,6.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Cusco,Family Heritage Tours,nearby district,140.58,13.5,6.0,7.0,3.0,8.0,6.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+New Zealand,New Zealand,Oceania,Dunedin,Heritage Quarter,local experience,151.44,13.6,4.0,2.0,7.0,,8.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Bologna,Student City,nearby district,121.92,14.3,5.0,6.0,6.0,8.0,9.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Greece,Greece,Europe,Naxos,Budget Island Stay,nearby district,108.86,17.6,4.0,8.0,6.0,7.0,10.0,6.0,5.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Spain,Spain,Europe,Pyrenees,Mountain Trails,main area,160.28,14.9,8.0,6.0,5.0,6.0,6.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Mombasa,Old Town,day-trip zone,121.69,24.4,3.0,4.0,5.0,10.0,9.0,3.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+New Zealand,New Zealand,Oceania,Fiordland,Milford Track,nearby district,145.31,16.3,8.0,5.0,4.0,5.0,7.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Italy,Italy,Europe,Milan,Fashion Hotels,day-trip zone,308.29,13.4,5.0,7.0,7.0,7.0,8.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Suzhou,Classical Gardens,day-trip zone,173.78,11.2,5.0,5.0,7.0,10.0,8.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Amazonas,Amazon Jungle Lodges,day-trip zone,107.19,25.2,8.0,6.0,4.0,7.0,6.0,8.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Bariloche,Family Lake Trips,nearby district,131.01,15.3,7.0,6.0,4.0,7.0,8.0,6.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Aswan,Nile Desert Routes,nearby district,102.04,19.7,9.0,5.0,4.0,5.0,7.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Chiang Mai,Ethical Elephant Parks,day-trip zone,129.08,29.2,6.0,5.0,4.0,6.0,7.0,6.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Mexico,Mexico,North America,Puerto Vallarta,High-end Coast,local experience,264.14,18.0,4.0,8.0,7.0,8.0,9.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Lake Como,Lakeside Retreat,local experience,179.64,20.3,5.0,9.0,5.0,5.0,7.0,6.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Jasper,Glacier Hikes,nearby district,155.97,6.0,9.0,3.0,3.0,5.0,5.0,8.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Lat,Waterfalls and Canyoning,local experience,119.05,,8.0,5.0,5.0,7.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Bay of Islands,Coastal Retreat,main area,162.4,15.5,6.0,8.0,5.0,5.0,5.0,6.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Rotorua,Geothermal Parks,main area,139.05,10.3,6.0,8.0,4.0,7.0,7.0,5.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Thailand,Thailand,Asia,Krabi,Limestone Beaches,day-trip zone,137.65,26.6,5.0,10.0,5.0,6.0,5.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Naivasha,Boat Trips,local experience,146.37,27.9,5.0,7.0,,7.0,8.0,5.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Durban,Indian Ocean Culture,local experience,138.83,17.9,3.0,8.0,6.0,10.0,8.0,5.0,,5.0,Standard Hotel,Coastal,Culture
+Greece,Greece,Europe,Naxos,Budget Island Stay,nearby district,120.22,18.0,5.0,8.0,6.0,7.0,7.0,,7.0,6.0,Guesthouse/Hostel,Coastal,Budget
+USA,USA,North America,Aspen,Mountain Luxury,day-trip zone,244.02,13.0,6.0,8.0,6.0,6.0,9.0,4.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+Mexico,Mexico,North America,Puebla,Colonial Center,local experience,159.81,20.2,4.0,2.0,7.0,10.0,8.0,2.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Rishikesh,Yoga Retreats,day-trip zone,133.97,26.7,6.0,8.0,5.0,6.0,7.0,4.0,8.0,6.0,Resort/Apartment,Mountain-Nature,Relaxation
+Vietnam,Vietnam,Asia,Ho Chi Minh City,High-end Hotels,local experience,248.36,29.7,5.0,7.0,8.0,8.0,8.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Dolomites,Alpine Hikes,main area,153.26,16.6,8.0,5.0,3.0,6.0,6.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Chamonix,Mont Blanc Trails,main area,127.92,9.2,9.0,5.0,3.0,5.0,7.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Nairobi,Museums and Markets,main area,136.04,18.7,5.0,4.0,5.0,8.0,7.0,3.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Drakensberg,Mountain Hikes,nearby district,129.52,17.1,8.0,6.0,3.0,7.0,6.0,8.0,8.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Naxos,Calm Family Coast,local experience,189.54,20.3,6.0,9.0,3.0,8.0,7.0,5.0,7.0,8.0,Standard Hotel,Coastal,Family
+New Zealand,New Zealand,Oceania,Fiordland,Milford Track,nearby district,130.29,9.5,7.0,4.0,3.0,6.0,6.0,10.0,7.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Black Forest,Family Trails,day-trip zone,139.15,11.7,6.0,8.0,5.0,7.0,6.0,5.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Thailand,Thailand,Asia,Krabi,Rock Climbing,nearby district,122.66,27.9,8.0,3.0,4.0,6.0,5.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Rabat,Historic Capital,day-trip zone,132.23,22.8,4.0,6.0,5.0,9.0,9.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Shanghai,Bund Luxury Hotels,main area,315.85,12.8,4.0,8.0,6.0,5.0,9.0,3.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Mendoza,Budget Wine Hostels,nearby district,66.59,14.7,5.0,5.0,6.0,6.0,8.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Delhi,Historic Monuments,local experience,117.69,26.1,4.0,3.0,7.0,9.0,7.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Black Forest,Forest Hikes,nearby district,119.64,10.1,9.0,4.0,4.0,6.0,,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Sacred Valley,Luxury Lodges,main area,212.03,14.0,5.0,6.0,7.0,6.0,8.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Durban,Indian Ocean Culture,local experience,156.2,23.4,4.0,8.0,5.0,10.0,8.0,4.0,6.0,7.0,Standard Hotel,Coastal,Culture
+New Zealand,New Zealand,Oceania,Rotorua,Hot Springs,day-trip zone,164.71,13.6,3.0,8.0,6.0,5.0,7.0,4.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Knysna,Lagoon Stay,day-trip zone,161.2,18.3,7.0,9.0,5.0,5.0,6.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Beijing,Palace Hotels,day-trip zone,321.56,13.6,5.0,9.0,6.0,8.0,8.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,El Chalten,Fitz Roy Trails,main area,116.71,14.8,8.0,3.0,4.0,6.0,7.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Paracas,Boat Wildlife Tours,local experience,147.93,16.5,5.0,7.0,3.0,6.0,8.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Jaipur,Budget Heritage Hostels,main area,52.17,22.5,6.0,6.0,7.0,8.0,8.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,New York City,Luxury Hotels,main area,252.23,15.9,4.0,8.0,6.0,8.0,8.0,4.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Rishikesh,Rafting and Yoga,nearby district,112.75,25.5,8.0,5.0,4.0,5.0,6.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Krabi,Rock Climbing,nearby district,108.75,22.9,8.0,5.0,4.0,6.0,7.0,10.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+USA,USA,North America,Utah,National Park Road Trip,main area,143.96,13.7,9.0,5.0,4.0,5.0,5.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Sacred Valley,Luxury Lodges,main area,209.87,17.2,5.0,8.0,7.0,8.0,9.0,5.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,New York City,Museums and Broadway,main area,143.66,18.2,3.0,3.0,5.0,8.0,9.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+New Zealand,New Zealand,Oceania,Rotorua,Budget Motels,day-trip zone,101.03,16.2,8.0,6.0,6.0,7.0,7.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Rotorua,Geothermal Parks,main area,158.82,15.0,6.0,6.0,4.0,7.0,8.0,4.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+China,China,Asia,Shanghai,Disney Resort,nearby district,187.12,14.1,5.0,6.0,3.0,7.0,7.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Australia,Australia,Oceania,Canberra,National Institutions,local experience,146.89,16.7,3.0,3.0,5.0,8.0,7.0,3.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Athens,Acropolis and Plaka,main area,196.83,19.2,3.0,3.0,5.0,8.0,7.0,3.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Foz do Iguacu,Iguazu Falls Trails,main area,94.52,24.8,8.0,3.0,6.0,5.0,6.0,10.0,10.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Montreal,Student Hostels,main area,108.57,5.8,6.0,5.0,6.0,5.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Buenos Aires,Palermo Hostel Area,local experience,88.58,15.2,6.0,5.0,6.0,8.0,7.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Leipzig,Affordable Arts Scene,main area,48.77,10.8,,6.0,5.0,8.0,7.0,6.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Baden-Baden,Spa Hotels,nearby district,196.76,11.4,4.0,8.0,7.0,7.0,9.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Hot Springs,day-trip zone,150.06,14.9,4.0,9.0,5.0,4.0,7.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Berlin,High-end Culture Stay,local experience,208.53,8.4,4.0,6.0,7.0,6.0,8.0,5.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Gold Coast,Theme Parks,main area,177.58,24.0,6.0,8.0,4.0,8.0,,4.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Lake Como,Lakeside Retreat,local experience,175.98,21.2,4.0,8.0,6.0,6.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Arequipa,Colonial Center,day-trip zone,131.8,17.6,2.0,3.0,6.0,9.0,6.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Gold Coast,Beach Resorts,main area,173.94,21.8,4.0,8.0,6.0,8.0,8.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Wellington,Budget City Hostels,main area,91.06,9.7,6.0,5.0,5.0,8.0,7.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Rotorua,Premium Spa Lodges,local experience,254.28,14.6,3.0,6.0,7.0,7.0,,5.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Paris,Museums and Monuments,main area,132.93,8.3,4.0,3.0,6.0,8.0,9.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Tigre,Delta Boat Escapes,local experience,130.13,22.2,4.0,8.0,5.0,4.0,6.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Seville,Budget Tapas Stay,nearby district,105.87,16.0,5.0,6.0,4.0,5.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,El Chalten,Fitz Roy Trails,main area,112.55,14.3,8.0,4.0,3.0,5.0,6.0,9.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Andalusia,Sierra Nevada Routes,day-trip zone,162.87,18.5,8.0,5.0,4.0,7.0,7.0,8.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Paris,Palace Hotels,main area,224.15,11.7,4.0,7.0,7.0,8.0,8.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Beijing,Palace Hotels,day-trip zone,323.21,15.3,5.0,8.0,6.0,8.0,9.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Canada,Canada,North America,Ottawa,National Museums,local experience,138.14,8.0,2.0,4.0,6.0,9.0,7.0,5.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Drakensberg,Mountain Hikes,nearby district,136.37,18.5,8.0,5.0,3.0,5.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Goa,Beach Villages,main area,133.47,28.8,3.0,9.0,5.0,5.0,6.0,5.0,9.0,6.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Rhodes,Old Town and Beaches,nearby district,194.87,21.5,6.0,8.0,4.0,8.0,6.0,5.0,7.0,9.0,Standard Hotel,Coastal,Family
+New Zealand,New Zealand,Oceania,Rotorua,Hot Springs,day-trip zone,164.96,12.5,5.0,9.0,5.0,5.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Jaipur,Heritage Palaces,nearby district,227.42,26.5,4.0,6.0,8.0,8.0,9.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Cape Winelands,Wine Estates,main area,155.82,20.2,5.0,8.0,4.0,6.0,6.0,5.0,9.0,7.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Milan,Fashion Hotels,day-trip zone,324.71,16.5,,6.0,9.0,7.0,10.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Germany,Germany,Europe,Black Forest,Family Trails,day-trip zone,142.72,11.8,6.0,6.0,4.0,,7.0,8.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Egypt,Egypt,Africa,Marsa Alam,Resort Coast,local experience,216.41,22.2,4.0,8.0,7.0,7.0,9.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Chiang Mai,Budget Guesthouses,main area,89.11,29.6,6.0,,5.0,6.0,8.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Bay of Islands,Luxury Lodges,nearby district,243.16,12.6,4.0,8.0,7.0,7.0,9.0,4.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Ho Chi Minh City,War History and Markets,local experience,134.77,24.9,4.0,3.0,6.0,8.0,7.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Whistler,Ski Resorts,local experience,265.86,9.8,5.0,7.0,7.0,8.0,10.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Port Douglas,Reef Luxury Stays,local experience,287.45,15.0,4.0,8.0,7.0,8.0,7.0,4.0,8.0,8.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Barcelona,Gaudi and Gothic Quarter,main area,164.13,16.4,4.0,3.0,6.0,9.0,6.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Florida Keys,Tropical Coast,nearby district,145.86,16.7,5.0,9.0,5.0,5.0,8.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Madrid,Hostel Neighborhoods,local experience,104.73,17.7,5.0,6.0,6.0,7.0,7.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Mexico,Mexico,North America,Puerto Vallarta,High-end Coast,local experience,265.34,23.8,5.0,8.0,8.0,6.0,8.0,2.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Mendoza,Luxury Wine Estates,main area,229.12,15.2,4.0,8.0,8.0,6.0,8.0,6.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Bahia,Praia do Forte,local experience,111.35,24.6,4.0,9.0,5.0,5.0,7.0,4.0,7.0,5.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Barcelona,Gaudi and Gothic Quarter,main area,151.23,19.6,3.0,4.0,6.0,9.0,9.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Zagori,Vikos Gorge,day-trip zone,181.67,21.6,8.0,3.0,4.0,6.0,8.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Shanghai,Disney Resort,nearby district,202.58,14.4,7.0,6.0,3.0,5.0,8.0,7.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+Greece,Greece,Europe,Crete,Five Star Coast,day-trip zone,326.59,21.9,4.0,8.0,6.0,7.0,8.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Barcelona,Gaudi and Gothic Quarter,main area,155.11,17.3,3.0,4.0,6.0,8.0,7.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Da Nang,Luxury Beach Hotels,nearby district,230.67,26.9,4.0,8.0,9.0,6.0,8.0,5.0,7.0,,Resort/Apartment,Coastal,Luxury
+Canada,Canada,North America,Montreal,Student Hostels,main area,102.61,5.1,5.0,5.0,7.0,7.0,8.0,3.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Yunnan,Tiger Leaping Gorge,day-trip zone,189.56,7.9,8.0,4.0,4.0,6.0,7.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Sydney,Harbour Culture,nearby district,170.67,22.3,4.0,3.0,5.0,9.0,9.0,4.0,,7.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Bologna,Student City,nearby district,93.22,17.1,6.0,5.0,5.0,8.0,8.0,4.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Mexico,Mexico,North America,Oaxaca,Budget Food Stay,main area,113.41,21.9,4.0,4.0,7.0,6.0,8.0,5.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Blue Mountains,Hiking Lookouts,nearby district,143.72,19.8,8.0,5.0,4.0,6.0,6.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Agra,Monument Family Tours,main area,147.1,22.6,5.0,,4.0,8.0,6.0,6.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Arequipa,Colonial Center,day-trip zone,127.09,17.4,2.0,5.0,5.0,,9.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Ho Chi Minh City,High-end Hotels,local experience,222.81,26.0,6.0,7.0,8.0,8.0,9.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Courchevel,Alpine Resorts,day-trip zone,232.53,13.1,6.0,6.0,9.0,6.0,7.0,5.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+Kenya,Kenya,Africa,Nairobi,High-end Hotels,day-trip zone,226.19,24.7,4.0,7.0,8.0,8.0,9.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Okinawa,Diving Islands,local experience,115.06,15.5,8.0,8.0,4.0,5.0,7.0,9.0,10.0,9.0,Guesthouse/Hostel,Coastal,Adventure
+Australia,Australia,Oceania,Gold Coast,Beach Resorts,main area,181.15,24.9,5.0,8.0,5.0,8.0,6.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Goa,Budget Beach Huts,day-trip zone,68.02,24.1,5.0,8.0,5.0,8.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Germany,Germany,Europe,Cologne,Cathedral Quarter,local experience,128.41,9.7,4.0,3.0,6.0,9.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Arizona,Grand Canyon,day-trip zone,142.44,12.2,8.0,3.0,3.0,5.0,7.0,10.0,8.0,,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Oaxaca,Sierra Norte Trails,local experience,140.19,18.5,9.0,5.0,4.0,4.0,7.0,9.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Buenos Aires,San Telmo Historic Quarter,main area,117.54,13.1,4.0,3.0,6.0,9.0,7.0,3.0,5.0,,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Paris,Museums and Monuments,main area,153.71,14.2,3.0,5.0,6.0,9.0,8.0,6.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Dali,Lake Retreat,local experience,197.42,17.2,4.0,9.0,5.0,6.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Krabi,Premium Beach Resorts,local experience,243.94,29.6,3.0,8.0,9.0,6.0,9.0,6.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+Italy,Italy,Europe,Venice,Canals and Palaces,day-trip zone,179.73,18.0,3.0,4.0,5.0,9.0,8.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nagoya,Affordable Base,day-trip zone,61.59,18.0,5.0,6.0,5.0,7.0,6.0,6.0,6.0,10.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Barcelona,Gaudi and Gothic Quarter,main area,157.63,15.1,4.0,4.0,7.0,8.0,7.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Luxor,Temple Tours,day-trip zone,137.52,26.7,4.0,5.0,5.0,,7.0,5.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Durban,Budget Beachfront,day-trip zone,82.06,21.2,5.0,8.0,6.0,7.0,7.0,6.0,6.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Italy,Italy,Europe,Bologna,Student City,nearby district,99.11,14.7,4.0,6.0,6.0,8.0,7.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Niagara Falls,Family Attractions,day-trip zone,179.4,3.7,5.0,7.0,3.0,6.0,8.0,6.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+New Zealand,New Zealand,Oceania,Rotorua,Geothermal Parks,main area,166.75,11.2,6.0,6.0,3.0,6.0,7.0,6.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Canada,Canada,North America,Toronto,Zoo and Museums,main area,176.6,5.7,6.0,7.0,4.0,8.0,8.0,5.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Luxor,Temple Tours,day-trip zone,149.23,22.9,6.0,5.0,3.0,8.0,6.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Paracas,Coastal Reserve,nearby district,150.01,19.4,6.0,9.0,5.0,6.0,6.0,4.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Bordeaux,Wine Country,local experience,136.73,14.9,5.0,8.0,5.0,3.0,7.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Tongariro,Alpine Crossing,local experience,134.05,10.7,8.0,4.0,4.0,7.0,7.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Toronto,Luxury Downtown Hotels,nearby district,297.07,4.2,4.0,8.0,8.0,7.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Cape Winelands,Wine Estates,main area,173.29,17.1,5.0,9.0,5.0,6.0,6.0,4.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Peru,Peru,South America,Huaraz,Budget Trekking Base,local experience,64.32,14.1,6.0,6.0,6.0,4.0,9.0,5.0,8.0,,Guesthouse/Hostel,Mountain-Nature,Budget
+Brazil,Brazil,South America,Florianopolis,Family Beaches,nearby district,130.81,24.1,7.0,8.0,4.0,8.0,6.0,5.0,6.0,6.0,Standard Hotel,Coastal,Family
+Australia,Australia,Oceania,Adelaide,Affordable City Break,day-trip zone,93.97,22.9,6.0,5.0,5.0,8.0,8.0,4.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Muskoka,Lake Cottages,day-trip zone,169.84,5.8,5.0,8.0,4.0,5.0,7.0,5.0,9.0,8.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Vancouver Island,Coastal Trails,local experience,136.24,6.5,9.0,8.0,3.0,5.0,6.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Okinawa,Diving Islands,local experience,119.42,18.3,10.0,8.0,4.0,6.0,7.0,9.0,9.0,9.0,Guesthouse/Hostel,Coastal,Adventure
+South Africa,South Africa,Africa,Johannesburg,Apartheid Museum,nearby district,158.23,19.6,3.0,3.0,6.0,8.0,8.0,5.0,,6.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mendoza,Aconcagua Foothills,day-trip zone,122.08,,,4.0,4.0,6.0,9.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Sharm El Sheikh,Red Sea Resorts,main area,141.54,25.2,3.0,8.0,6.0,7.0,8.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Bologna,Student City,nearby district,110.27,21.0,5.0,7.0,6.0,8.0,9.0,5.0,,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,San Diego,Zoo and Beaches,nearby district,167.87,15.6,5.0,8.0,4.0,5.0,7.0,5.0,7.0,9.0,Standard Hotel,Coastal,Family
+Peru,Peru,South America,Paracas,Boat Wildlife Tours,local experience,142.14,16.9,,6.0,3.0,7.0,7.0,4.0,,8.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,San Antonio,Affordable Heritage,local experience,89.63,13.5,5.0,,6.0,8.0,6.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Florianopolis,Family Beaches,nearby district,106.83,24.7,5.0,8.0,4.0,7.0,8.0,5.0,,6.0,Standard Hotel,Coastal,Family
+Japan,Japan,Asia,Okinawa,Island Beaches,main area,126.36,,4.0,9.0,4.0,4.0,8.0,6.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Dunedin,Heritage Quarter,local experience,146.04,13.1,4.0,4.0,6.0,9.0,9.0,4.0,4.0,10.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Koh Samui,Luxury Villas,nearby district,214.36,29.5,5.0,8.0,8.0,,9.0,5.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,Florida Keys,Tropical Coast,nearby district,147.91,12.6,4.0,8.0,5.0,5.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Bordeaux,Wine Country,local experience,,12.9,5.0,8.0,5.0,6.0,7.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Baden-Baden,Spa Hotels,nearby district,199.17,9.3,4.0,8.0,7.0,6.0,10.0,4.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Sao Paulo,Fine Dining Hotels,day-trip zone,186.18,24.9,5.0,6.0,7.0,6.0,8.0,4.0,5.0,6.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Aswan,Nile Desert Routes,nearby district,121.63,25.0,9.0,6.0,4.0,6.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Nairobi,High-end Hotels,day-trip zone,,23.0,4.0,7.0,6.0,7.0,9.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Foz do Iguacu,Iguazu Falls Trails,main area,111.46,26.4,9.0,4.0,4.0,5.0,7.0,10.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Madrid,High-end City Stay,day-trip zone,250.74,17.8,5.0,8.0,6.0,8.0,7.0,5.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Da Nang,Beach Coast,main area,142.95,29.4,5.0,9.0,5.0,4.0,7.0,4.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Cape Town,Budget Hostels,main area,72.19,21.8,5.0,6.0,7.0,7.0,8.0,5.0,8.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Krabi,Rock Climbing,nearby district,119.95,,9.0,5.0,4.0,6.0,7.0,9.0,7.0,,Guesthouse/Hostel,Mountain-Nature,Adventure
+Spain,Spain,Europe,Seville,Alcazar and Flamenco,day-trip zone,137.3,20.5,4.0,3.0,5.0,9.0,7.0,2.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Leipzig,Affordable Arts Scene,main area,53.23,6.6,7.0,4.0,7.0,6.0,7.0,6.0,5.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Ha Giang,Mountain Loop,nearby district,136.41,26.7,9.0,4.0,6.0,5.0,7.0,7.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Kerala,Western Ghats Trails,local experience,119.28,24.3,8.0,6.0,6.0,7.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Merida,Safe Heritage Base,day-trip zone,169.33,20.6,4.0,7.0,3.0,8.0,6.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Rome,Ancient Monuments,main area,172.11,12.4,4.0,4.0,6.0,9.0,7.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Thessaloniki,Byzantine Heritage,day-trip zone,184.51,18.9,5.0,3.0,7.0,9.0,8.0,4.0,7.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Rio de Janeiro,Budget Beach Neighborhoods,local experience,65.61,28.7,5.0,8.0,6.0,5.0,8.0,5.0,7.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Kenya,Kenya,Africa,Maasai Mara,Safari Drives,main area,136.99,,8.0,5.0,2.0,6.0,6.0,9.0,7.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Rhodes,Island Beaches,local experience,189.22,21.6,4.0,8.0,5.0,5.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Cape Winelands,Wine Estates,main area,177.85,16.8,4.0,9.0,7.0,6.0,8.0,4.0,6.0,,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Alexandria,Mediterranean Heritage,local experience,116.09,24.4,3.0,3.0,5.0,9.0,9.0,5.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Yellowstone,Family Nature Trip,local experience,175.81,16.3,6.0,6.0,4.0,6.0,6.0,4.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Japan,Japan,Asia,Kanazawa,Samurai and Gardens,local experience,117.2,15.4,5.0,4.0,6.0,9.0,8.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Black Forest,Forest Hikes,nearby district,103.67,5.8,8.0,4.0,4.0,,,9.0,9.0,,Guesthouse/Hostel,Mountain-Nature,Adventure
+Brazil,Brazil,South America,Salvador,Affordable Historic Stay,nearby district,73.66,29.7,5.0,5.0,5.0,8.0,6.0,6.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Lake Garda,Family Parks,local experience,201.23,,6.0,6.0,3.0,8.0,8.0,6.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Egypt,Egypt,Africa,Luxor,Budget Nile Hotels,day-trip zone,88.7,19.2,5.0,5.0,6.0,6.0,6.0,5.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Greece,Greece,Europe,Athens,Acropolis and Plaka,main area,182.4,15.9,4.0,4.0,5.0,10.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Affordable Music Stay,nearby district,106.75,14.4,5.0,4.0,5.0,5.0,8.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Seville,Budget Tapas Stay,nearby district,104.06,20.7,7.0,4.0,6.0,6.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Hanoi,Museums and Food,day-trip zone,154.95,24.2,3.0,7.0,3.0,8.0,6.0,5.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,New York City,Luxury Hotels,main area,255.31,12.0,4.0,7.0,,8.0,9.0,7.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Arequipa,Colca Canyon,day-trip zone,125.15,17.2,9.0,4.0,4.0,6.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Chamonix,Mont Blanc Trails,main area,111.25,12.2,8.0,3.0,3.0,5.0,8.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Oaxaca,Food and Markets,nearby district,,21.4,6.0,2.0,5.0,9.0,8.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Cape Town,Budget Hostels,main area,97.59,21.4,4.0,5.0,8.0,6.0,6.0,5.0,4.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Paris,Palace Hotels,main area,245.65,17.4,4.0,8.0,8.0,8.0,8.0,6.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Copper Canyon,Rail and Hikes,nearby district,126.6,21.9,9.0,4.0,4.0,4.0,8.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Kisumu,Affordable Lakeside,local experience,88.14,25.6,6.0,6.0,6.0,6.0,7.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Pai,Backpacker Town,day-trip zone,69.63,25.7,4.0,5.0,5.0,6.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Courchevel,Alpine Resorts,day-trip zone,221.49,16.1,6.0,7.0,8.0,7.0,9.0,5.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+Vietnam,Vietnam,Asia,Hanoi,Budget Street Food,main area,85.32,22.2,6.0,5.0,7.0,7.0,,5.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Beijing,Palace Hotels,day-trip zone,321.64,13.4,6.0,8.0,8.0,8.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Whitsundays,Island Resorts,nearby district,279.63,19.5,5.0,8.0,6.0,8.0,7.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+South Africa,South Africa,Africa,Drakensberg,Mountain Hikes,nearby district,134.29,17.6,8.0,7.0,3.0,,7.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Buenos Aires,Palermo Hostel Area,local experience,84.96,14.2,7.0,5.0,7.0,6.0,8.0,6.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Costa del Sol,Resort Coast,nearby district,172.76,18.8,3.0,8.0,6.0,5.0,6.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Sharm El Sheikh,Red Sea Resorts,main area,146.69,24.5,5.0,8.0,4.0,5.0,6.0,5.0,8.0,5.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,San Antonio,Affordable Heritage,local experience,92.42,11.6,5.0,5.0,5.0,8.0,8.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Amazonas,Amazon Jungle Lodges,day-trip zone,106.43,23.2,7.0,3.0,3.0,5.0,6.0,10.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+USA,USA,North America,Florida Keys,Tropical Coast,nearby district,144.29,12.9,4.0,9.0,6.0,5.0,8.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Toulouse,Budget Food and Culture,nearby district,77.43,12.7,5.0,5.0,7.0,6.0,8.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Pai,Mountain Roads,local experience,124.14,28.5,8.0,4.0,,5.0,7.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Dades Valley,Canyon Routes,day-trip zone,135.37,23.7,9.0,5.0,2.0,5.0,5.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Zhangjiajie,Avatar Mountains,main area,179.8,14.2,8.0,5.0,4.0,6.0,7.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Lyon,Hostel Neighborhoods,local experience,78.64,14.9,4.0,5.0,6.0,6.0,8.0,6.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Beijing,Palace Hotels,day-trip zone,304.28,13.6,5.0,7.0,7.0,8.0,9.0,6.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Crete,Samaria Gorge,main area,161.95,17.0,9.0,4.0,5.0,5.0,8.0,9.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Tigre,Delta Boat Escapes,local experience,138.3,14.8,4.0,9.0,6.0,6.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Phuket,Family Beach Resorts,main area,150.42,28.6,5.0,8.0,5.0,7.0,7.0,5.0,7.0,8.0,Standard Hotel,Coastal,Family
+Egypt,Egypt,Africa,Alexandria,Mediterranean Heritage,local experience,127.43,20.4,4.0,4.0,7.0,10.0,8.0,5.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Berlin,High-end Culture Stay,local experience,195.3,11.9,3.0,7.0,8.0,7.0,7.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Budget Motels,day-trip zone,88.69,15.2,5.0,7.0,5.0,6.0,8.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Atlas Mountains,Kasbah Retreats,day-trip zone,237.78,23.3,6.0,7.0,8.0,7.0,8.0,4.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+Kenya,Kenya,Africa,Kisumu,Affordable Lakeside,local experience,90.98,20.7,6.0,7.0,5.0,6.0,7.0,5.0,6.0,5.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Phuket,Beach Resorts,main area,149.18,28.7,4.0,8.0,5.0,5.0,7.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Watamu,Quiet Beaches,nearby district,121.45,18.6,5.0,8.0,4.0,5.0,7.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Nairobi,High-end Hotels,day-trip zone,235.32,22.6,5.0,8.0,8.0,5.0,8.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Provence,Lavender Villages,nearby district,142.76,12.5,5.0,8.0,5.0,4.0,8.0,6.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Drakensberg,Mountain Hikes,nearby district,140.55,18.0,8.0,4.0,4.0,5.0,7.0,8.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Atlas Mountains,Toubkal Trails,main area,144.74,20.8,10.0,4.0,5.0,6.0,6.0,7.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Nara,Deer Park,day-trip zone,122.39,14.7,6.0,7.0,2.0,8.0,8.0,5.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+China,China,Asia,Suzhou,Classical Gardens,day-trip zone,189.1,15.5,4.0,4.0,6.0,10.0,7.0,3.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Seville,Budget Tapas Stay,nearby district,99.86,21.1,4.0,5.0,7.0,5.0,8.0,6.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Leipzig,Affordable Arts Scene,main area,80.68,9.5,5.0,4.0,,6.0,7.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Corsica,GR20 Sections,day-trip zone,136.76,15.0,8.0,3.0,2.0,5.0,8.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Halifax,Budget Harbor Stay,day-trip zone,100.47,9.1,6.0,5.0,6.0,7.0,7.0,6.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Turin,Affordable Museums,local experience,111.02,14.1,7.0,4.0,5.0,8.0,9.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Brazil,Brazil,South America,Buzios,Beach Town,nearby district,129.78,25.6,6.0,9.0,5.0,4.0,8.0,5.0,8.0,5.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Riviera Maya,Family Resorts,main area,163.26,21.1,6.0,6.0,4.0,8.0,8.0,6.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Cinque Terre,Coastal Trails,day-trip zone,165.8,15.0,9.0,8.0,4.0,5.0,7.0,10.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Italy,Italy,Europe,Venice,Canals and Palaces,day-trip zone,184.74,14.4,2.0,4.0,6.0,9.0,9.0,4.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Seville,Budget Tapas Stay,nearby district,94.86,17.3,6.0,7.0,5.0,8.0,6.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Dali,Lake Retreat,local experience,193.35,11.7,4.0,8.0,6.0,5.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Agadir,Family Beach Resorts,nearby district,156.61,21.8,6.0,8.0,3.0,8.0,7.0,5.0,6.0,9.0,Standard Hotel,Coastal,Family
+South Africa,South Africa,Africa,Kruger,Private Safari Lodges,nearby district,277.67,17.6,4.0,7.0,8.0,7.0,8.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Tulum,Caribbean Beaches,main area,150.2,25.6,4.0,9.0,5.0,5.0,7.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Pai,Mountain Roads,local experience,140.81,27.6,8.0,6.0,3.0,5.0,7.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Dahab,Budget Diving Hostels,main area,97.08,22.3,6.0,5.0,6.0,7.0,7.0,3.0,3.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Mexico,Mexico,North America,Oaxaca,Sierra Norte Trails,local experience,144.77,23.9,8.0,5.0,5.0,6.0,7.0,9.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Marrakech,Luxury Riads,main area,231.32,20.8,5.0,8.0,7.0,6.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Sydney,Harbour Culture,nearby district,164.24,21.3,5.0,3.0,6.0,9.0,8.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Garden Route,Boutique Lodges,local experience,275.06,19.0,7.0,8.0,8.0,7.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Chiang Mai,Ethical Elephant Parks,day-trip zone,136.71,25.9,6.0,7.0,4.0,6.0,5.0,5.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Mexico,Mexico,North America,Puebla,Colonial Center,local experience,146.31,21.7,4.0,5.0,5.0,8.0,6.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Baden-Baden,Spa Hotels,nearby district,205.26,8.4,4.0,7.0,7.0,6.0,8.0,5.0,6.0,10.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Nara,Ancient Shrines,nearby district,124.04,15.7,4.0,3.0,6.0,10.0,8.0,4.0,5.0,10.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Merida,Budget Heritage Base,day-trip zone,102.93,24.1,6.0,4.0,7.0,8.0,8.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+South Africa,South Africa,Africa,Cape Town,Aquarium and Cableway,main area,166.15,22.4,5.0,7.0,3.0,7.0,6.0,5.0,6.0,6.0,Standard Hotel,Urban-Heritage,Family
+Peru,Peru,South America,Sacred Valley,Luxury Lodges,main area,217.78,18.3,5.0,7.0,6.0,7.0,9.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Arequipa,Colca Canyon,day-trip zone,116.24,19.9,8.0,4.0,3.0,5.0,7.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Lat,Waterfalls and Canyoning,local experience,123.11,24.6,8.0,4.0,5.0,6.0,8.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+China,China,Asia,Hangzhou,West Lake,nearby district,185.16,13.1,5.0,8.0,5.0,5.0,8.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Bariloche,Lake Resorts,day-trip zone,241.48,15.7,3.0,8.0,7.0,5.0,9.0,6.0,4.0,7.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Tokyo,Disney and Museums,main area,123.61,14.5,6.0,6.0,3.0,8.0,6.0,6.0,7.0,10.0,Standard Hotel,Urban-Heritage,Family
+China,China,Asia,Shanghai,Disney Resort,nearby district,206.01,14.5,6.0,6.0,4.0,7.0,7.0,4.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Cape Town,Budget Hostels,main area,95.86,12.8,5.0,5.0,7.0,7.0,8.0,6.0,,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Gold Coast,Theme Parks,main area,177.62,23.4,6.0,8.0,4.0,8.0,6.0,4.0,,8.0,Standard Hotel,Urban-Heritage,Family
+Germany,Germany,Europe,Munich,Bavarian Culture,nearby district,126.81,6.8,3.0,3.0,5.0,9.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mendoza,Aconcagua Foothills,day-trip zone,121.71,17.8,9.0,5.0,5.0,5.0,5.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Halifax,Budget Harbor Stay,day-trip zone,,4.5,6.0,4.0,6.0,8.0,8.0,4.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Egypt,Egypt,Africa,Luxor,Budget Nile Hotels,day-trip zone,77.94,21.6,6.0,6.0,,6.0,8.0,5.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Da Nang,Luxury Beach Hotels,nearby district,247.51,27.6,5.0,8.0,7.0,6.0,9.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Bahia,Praia do Forte,local experience,95.73,24.5,4.0,7.0,5.0,4.0,6.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Mombasa,Affordable Coast,nearby district,82.0,23.6,6.0,8.0,6.0,7.0,6.0,6.0,5.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Peru,Peru,South America,Paracas,Boat Wildlife Tours,local experience,131.89,,6.0,6.0,3.0,7.0,7.0,6.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Toulouse,Budget Food and Culture,nearby district,92.65,17.2,5.0,4.0,6.0,6.0,6.0,7.0,8.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Marbella,Luxury Resorts,main area,260.97,23.0,5.0,7.0,8.0,7.0,10.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Hue,Imperial City,nearby district,155.85,25.2,4.0,5.0,6.0,10.0,8.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Guilin,River Family Tours,local experience,181.19,,5.0,7.0,3.0,8.0,7.0,5.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Japan,Japan,Asia,Nagoya,Affordable Base,day-trip zone,59.96,16.5,5.0,5.0,6.0,5.0,8.0,5.0,6.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Montreal,Student Hostels,main area,99.54,9.0,5.0,4.0,6.0,5.0,7.0,5.0,4.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+South Africa,South Africa,Africa,Drakensberg,Mountain Hikes,nearby district,140.16,19.0,8.0,4.0,3.0,6.0,8.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Kruger,Safari Drives,local experience,162.08,21.2,8.0,5.0,4.0,6.0,6.0,10.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Rotorua,Hot Springs,day-trip zone,164.18,14.2,3.0,7.0,5.0,5.0,6.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Marrakech,Riad Spa Stay,local experience,129.07,23.8,4.0,7.0,5.0,5.0,5.0,5.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Port Douglas,Reef Luxury Stays,local experience,271.34,18.9,4.0,8.0,8.0,6.0,8.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Madrid,Museums and Parks,local experience,167.6,14.3,6.0,6.0,2.0,8.0,8.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Dades Valley,Canyon Routes,day-trip zone,126.43,25.4,9.0,4.0,5.0,5.0,7.0,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Red Sea,Diving Trips,local experience,123.41,26.1,9.0,8.0,5.0,6.0,7.0,10.0,7.0,6.0,Guesthouse/Hostel,Coastal,Adventure
+Kenya,Kenya,Africa,Maasai Mara,Family Safari,nearby district,144.28,21.5,5.0,6.0,5.0,9.0,8.0,6.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Kenya,Kenya,Africa,Maasai Mara,Luxury Safari Camps,main area,234.0,21.8,4.0,8.0,7.0,8.0,8.0,4.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Budget Motels,day-trip zone,83.31,11.1,5.0,6.0,7.0,7.0,8.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Zhangjiajie,Avatar Mountains,main area,171.97,14.0,8.0,4.0,4.0,4.0,7.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Paracas,Coastal Reserve,nearby district,150.88,17.2,4.0,9.0,6.0,5.0,6.0,6.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+Morocco,Morocco,Africa,Marrakech,Medina and Souks,main area,132.29,24.4,4.0,3.0,5.0,9.0,8.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Phuket,Beach Resorts,main area,131.59,31.0,5.0,10.0,6.0,6.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Loire Valley,Castle Routes,local experience,134.64,9.0,4.0,6.0,3.0,7.0,5.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Madrid,High-end City Stay,day-trip zone,271.56,15.1,,7.0,7.0,9.0,8.0,5.0,5.0,8.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Hanoi,Budget Street Food,main area,76.78,25.1,6.0,4.0,6.0,7.0,7.0,7.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Naivasha,Boat Trips,local experience,153.31,24.9,5.0,7.0,3.0,7.0,6.0,6.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Oaxaca,Food and Markets,nearby district,155.77,21.8,3.0,3.0,7.0,9.0,10.0,5.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Vietnam,Vietnam,Asia,Da Nang,Beach Coast,main area,145.09,28.5,5.0,9.0,5.0,6.0,7.0,5.0,,7.0,Resort/Apartment,Coastal,Relaxation
+Australia,Australia,Oceania,Blue Mountains,Hiking Lookouts,nearby district,150.74,21.8,10.0,6.0,4.0,6.0,7.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Cusco,Inca Heritage,main area,123.01,23.3,4.0,5.0,7.0,9.0,7.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Jasper,Glacier Hikes,nearby district,153.08,6.0,9.0,5.0,3.0,5.0,7.0,10.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Kruger,Family Safari,day-trip zone,174.46,16.9,6.0,7.0,6.0,7.0,8.0,6.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Kruger,Safari Drives,local experience,140.9,13.0,9.0,5.0,3.0,6.0,6.0,8.0,9.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Cusco,Inca Trail,main area,105.51,15.4,10.0,4.0,5.0,5.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Cologne,Cathedral Quarter,local experience,119.34,9.5,4.0,4.0,7.0,9.0,9.0,4.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Zhangjiajie,Avatar Mountains,main area,174.6,16.2,8.0,5.0,4.0,5.0,6.0,9.0,,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Tongariro,Alpine Crossing,local experience,127.83,14.1,9.0,,5.0,3.0,6.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+USA,USA,North America,New Orleans,Music and Food,day-trip zone,154.55,13.6,3.0,3.0,5.0,9.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Kanazawa,Samurai and Gardens,local experience,132.81,14.8,4.0,5.0,6.0,8.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Riviera Maya,All Inclusive Hotels,nearby district,271.2,24.6,4.0,8.0,7.0,7.0,8.0,5.0,5.0,6.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Madrid,High-end City Stay,day-trip zone,284.65,19.2,5.0,7.0,8.0,8.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Spain,Spain,Europe,Marbella,Luxury Resorts,main area,279.99,17.5,4.0,7.0,8.0,7.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Krabi,Premium Beach Resorts,local experience,224.16,29.9,4.0,8.0,7.0,6.0,8.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,New York City,Museums and Broadway,main area,149.22,15.2,4.0,4.0,5.0,8.0,10.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Tokyo,Disney and Museums,main area,125.64,14.1,5.0,6.0,,8.0,8.0,6.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,Sedona,Desert Spa Stay,local experience,147.27,17.2,,8.0,5.0,5.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Bariloche,Family Lake Trips,nearby district,149.56,17.8,6.0,6.0,4.0,7.0,7.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Greece,Greece,Europe,Naxos,Budget Island Stay,nearby district,112.79,20.0,5.0,8.0,7.0,6.0,9.0,5.0,7.0,8.0,Guesthouse/Hostel,Coastal,Budget
+Thailand,Thailand,Asia,Krabi,Premium Beach Resorts,local experience,224.55,33.9,3.0,8.0,6.0,7.0,10.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Provence,Lavender Villages,nearby district,125.71,13.8,5.0,7.0,6.0,4.0,7.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+China,China,Asia,Yunnan,Tiger Leaping Gorge,day-trip zone,169.99,12.4,9.0,4.0,4.0,6.0,,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Krabi,Limestone Beaches,day-trip zone,121.17,29.7,5.0,8.0,5.0,5.0,8.0,6.0,6.0,9.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Venice,Boat Rides,nearby district,,16.3,5.0,6.0,4.0,8.0,7.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Hue,Imperial City,nearby district,122.19,24.7,3.0,5.0,7.0,8.0,7.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Loire Valley,Castle Routes,local experience,140.21,14.8,7.0,8.0,3.0,7.0,7.0,6.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Tulum,Caribbean Beaches,main area,,26.7,4.0,8.0,5.0,4.0,8.0,4.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Italy,Italy,Europe,Tuscany,Countryside Stay,nearby district,190.12,19.0,5.0,8.0,6.0,6.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Fiordland,Milford Track,nearby district,135.75,15.9,9.0,5.0,5.0,7.0,6.0,7.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Kenya,Kenya,Africa,Mombasa,Affordable Coast,nearby district,82.19,23.0,4.0,8.0,6.0,6.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Coastal,Budget
+China,China,Asia,Xi’an,Budget Heritage Stay,nearby district,99.17,12.6,4.0,4.0,5.0,8.0,7.0,6.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Phuket,Family Beach Resorts,main area,142.89,25.6,5.0,8.0,4.0,,7.0,4.0,7.0,8.0,Standard Hotel,Coastal,Family
+Australia,Australia,Oceania,Noosa,Sunshine Coast Beaches,day-trip zone,152.18,20.3,3.0,9.0,7.0,5.0,6.0,6.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Varanasi,Ganges Ghats,nearby district,136.51,25.6,4.0,3.0,6.0,9.0,9.0,4.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Courchevel,Alpine Resorts,day-trip zone,234.28,13.9,6.0,7.0,8.0,6.0,9.0,5.0,8.0,8.0,Resort/Apartment,Mountain-Nature,Luxury
+USA,USA,North America,San Diego,Zoo and Beaches,nearby district,189.39,13.1,5.0,9.0,4.0,7.0,,7.0,6.0,8.0,Standard Hotel,Coastal,Family
+Greece,Greece,Europe,Athens,Hostel Center,local experience,110.98,,5.0,5.0,5.0,7.0,6.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Dolomites,Alpine Hikes,main area,175.8,15.1,9.0,5.0,6.0,6.0,5.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Niagara Falls,Family Attractions,day-trip zone,167.92,4.2,5.0,5.0,4.0,5.0,7.0,4.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Essaouira,Walkable Medina,local experience,152.74,23.3,5.0,6.0,4.0,8.0,7.0,5.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Andalusia,Sierra Nevada Routes,day-trip zone,137.06,18.2,7.0,3.0,4.0,4.0,6.0,8.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Italy,Italy,Europe,Venice,Boat Rides,nearby district,180.47,14.3,5.0,7.0,5.0,8.0,7.0,6.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+Spain,Spain,Europe,Valencia,Science City,nearby district,156.88,14.6,5.0,5.0,3.0,8.0,6.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Kenya,Kenya,Africa,Naivasha,Boat Trips,local experience,154.99,18.8,5.0,9.0,4.0,6.0,6.0,7.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Ho Chi Minh City,War History and Markets,local experience,149.36,27.8,5.0,4.0,7.0,8.0,9.0,4.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+South Africa,South Africa,Africa,Garden Route,Boutique Lodges,local experience,271.21,17.6,4.0,8.0,7.0,7.0,9.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Maasai Mara,Luxury Safari Camps,main area,249.32,15.2,4.0,8.0,8.0,6.0,8.0,3.0,7.0,6.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Hanoi,Museums and Food,day-trip zone,146.78,25.6,4.0,8.0,3.0,8.0,8.0,5.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Essaouira,Walkable Medina,local experience,147.56,20.1,5.0,7.0,2.0,8.0,7.0,7.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Kenya,Kenya,Africa,Maasai Mara,Luxury Safari Camps,main area,242.33,24.7,5.0,,7.0,5.0,9.0,4.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Delhi,Historic Monuments,local experience,136.71,25.1,3.0,4.0,5.0,9.0,10.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Chamonix,Mont Blanc Trails,main area,122.57,15.5,9.0,3.0,4.0,7.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Melbourne,Hostel Laneways,main area,94.46,23.3,5.0,,6.0,6.0,8.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Agadir,Family Beach Resorts,nearby district,155.13,23.7,6.0,8.0,4.0,6.0,7.0,6.0,5.0,7.0,Standard Hotel,Coastal,Family
+Greece,Greece,Europe,Zagori,Vikos Gorge,day-trip zone,177.43,19.1,9.0,6.0,4.0,7.0,5.0,10.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Kyoto,Ryokan Stays,nearby district,203.95,14.7,5.0,6.0,6.0,7.0,8.0,4.0,7.0,10.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Xi’an,Budget Heritage Stay,nearby district,117.68,16.9,6.0,7.0,7.0,8.0,9.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Gold Coast,Theme Parks,main area,160.54,20.5,7.0,8.0,3.0,8.0,8.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Australia,Australia,Oceania,Whitsundays,Island Resorts,nearby district,275.66,23.1,4.0,8.0,6.0,5.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Krabi,Premium Beach Resorts,local experience,240.61,30.1,3.0,8.0,8.0,5.0,7.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Bay of Islands,Luxury Lodges,nearby district,250.78,11.2,4.0,8.0,,7.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Queenstown,Lake Activities,day-trip zone,166.24,16.3,4.0,7.0,3.0,6.0,7.0,4.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,Utah,National Park Road Trip,main area,128.84,8.0,8.0,4.0,4.0,6.0,7.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Atlas Mountains,Kasbah Retreats,day-trip zone,241.89,22.5,6.0,7.0,9.0,7.0,9.0,5.0,,8.0,Resort/Apartment,Mountain-Nature,Luxury
+South Africa,South Africa,Africa,Kruger,Family Safari,day-trip zone,167.43,18.9,5.0,6.0,4.0,6.0,7.0,4.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Luxor,Valley of the Kings,nearby district,131.01,25.1,3.0,4.0,6.0,9.0,9.0,6.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Northern Territory,Uluru Desert Routes,local experience,166.92,20.4,7.0,4.0,4.0,6.0,7.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Rugen,Baltic Beaches,day-trip zone,103.51,9.3,5.0,8.0,5.0,6.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Da Nang,Luxury Beach Hotels,nearby district,244.53,25.3,,8.0,7.0,7.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Krabi,Premium Beach Resorts,local experience,215.9,27.2,4.0,8.0,8.0,5.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Tongariro,Alpine Crossing,local experience,147.51,13.4,8.0,5.0,4.0,6.0,7.0,8.0,9.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Luxor,Valley of the Kings,nearby district,128.31,24.7,4.0,3.0,6.0,10.0,9.0,5.0,6.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Ottawa,National Museums,local experience,170.9,8.3,4.0,3.0,7.0,8.0,8.0,3.0,3.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Osaka,Affordable Food Districts,main area,83.61,14.9,5.0,6.0,7.0,7.0,7.0,5.0,7.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Arequipa,Colonial Center,day-trip zone,133.21,19.7,3.0,4.0,5.0,8.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Agra,Monument Family Tours,main area,148.9,22.5,5.0,6.0,3.0,8.0,8.0,7.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Ho Chi Minh City,High-end Hotels,local experience,,21.7,3.0,7.0,6.0,8.0,7.0,6.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Wellington,Budget City Hostels,main area,103.68,15.5,5.0,4.0,6.0,8.0,8.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Kerala,Western Ghats Trails,local experience,134.49,27.2,8.0,5.0,6.0,7.0,6.0,8.0,10.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Rishikesh,Rafting and Yoga,nearby district,115.55,22.9,8.0,5.0,3.0,6.0,6.0,10.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Pai,Mountain Roads,local experience,124.25,29.2,9.0,3.0,3.0,,6.0,10.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+India,India,Asia,Delhi,Historic Monuments,local experience,113.2,24.0,4.0,4.0,5.0,9.0,10.0,4.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Egypt,Egypt,Africa,Cairo,Pyramids Family Tours,main area,138.78,20.4,6.0,8.0,5.0,8.0,7.0,5.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Lake Como,Lakeside Retreat,local experience,182.23,13.4,3.0,8.0,5.0,4.0,7.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Kruger,Family Safari,day-trip zone,161.08,17.9,4.0,7.0,4.0,7.0,6.0,5.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+Australia,Australia,Oceania,Adelaide,Affordable City Break,day-trip zone,79.74,20.0,5.0,6.0,6.0,8.0,8.0,6.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Gold Coast,Theme Parks,main area,149.75,20.6,6.0,8.0,,8.0,7.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+Mexico,Mexico,North America,Tulum,Caribbean Beaches,main area,160.13,25.8,5.0,9.0,3.0,6.0,5.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Crete,Samaria Gorge,main area,176.22,17.5,8.0,4.0,3.0,6.0,6.0,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Red Sea,Diving Trips,local experience,107.7,20.9,8.0,8.0,4.0,6.0,7.0,9.0,10.0,6.0,Guesthouse/Hostel,Coastal,Adventure
+Morocco,Morocco,Africa,Atlas Mountains,Toubkal Trails,main area,130.45,23.8,9.0,4.0,4.0,7.0,6.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Marrakech,Medina and Souks,main area,128.36,23.7,4.0,4.0,7.0,8.0,8.0,4.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Peru,Peru,South America,Huaraz,Budget Trekking Base,local experience,68.64,15.5,6.0,5.0,4.0,5.0,6.0,5.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Budget
+Kenya,Kenya,Africa,Watamu,Quiet Beaches,nearby district,154.88,24.2,5.0,9.0,5.0,6.0,6.0,4.0,8.0,,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Canary Islands,Year-round Sun,local experience,164.58,20.3,4.0,9.0,6.0,6.0,7.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+USA,USA,North America,New York City,Luxury Hotels,main area,258.62,14.8,4.0,6.0,9.0,8.0,8.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Thailand,Thailand,Asia,Phuket,Family Beach Resorts,main area,145.85,28.7,5.0,8.0,3.0,8.0,7.0,6.0,8.0,8.0,Standard Hotel,Coastal,Family
+China,China,Asia,Shanghai,Bund Luxury Hotels,main area,325.19,14.8,4.0,7.0,8.0,8.0,8.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Canberra,National Institutions,local experience,168.72,14.1,4.0,6.0,5.0,9.0,8.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Turin,Affordable Museums,local experience,109.73,17.4,5.0,7.0,6.0,8.0,7.0,5.0,5.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Egypt,Egypt,Africa,Cairo,Pyramids Family Tours,main area,145.48,19.0,4.0,8.0,2.0,,8.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Family
+Australia,Australia,Oceania,Cairns,Reef Family Tours,day-trip zone,182.68,23.8,4.0,8.0,3.0,7.0,7.0,5.0,6.0,8.0,Standard Hotel,Coastal,Family
+France,France,Europe,Marne-la-Vallee,Disneyland Paris,nearby district,163.34,11.1,5.0,6.0,4.0,7.0,6.0,7.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Hoi An,Slow Riverside Stay,day-trip zone,137.78,25.5,6.0,9.0,5.0,5.0,8.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Thailand,Thailand,Asia,Pai,Backpacker Town,day-trip zone,77.4,26.4,5.0,7.0,6.0,7.0,7.0,8.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Watamu,Quiet Beaches,nearby district,153.68,22.9,4.0,8.0,5.0,6.0,6.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Toronto,Luxury Downtown Hotels,nearby district,,7.1,4.0,7.0,8.0,8.0,8.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,New Orleans,Music and Food,day-trip zone,147.51,21.6,4.0,3.0,7.0,8.0,8.0,6.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Andalusia,Sierra Nevada Routes,day-trip zone,144.14,16.6,9.0,5.0,4.0,6.0,5.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Canada,Canada,North America,Toronto,Luxury Downtown Hotels,nearby district,286.13,5.9,6.0,8.0,8.0,7.0,8.0,5.0,6.0,10.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Nairobi,Museums and Markets,main area,109.11,20.0,4.0,3.0,6.0,10.0,8.0,3.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Lake Como,Luxury Villas,main area,303.67,14.7,5.0,8.0,7.0,8.0,9.0,4.0,7.0,7.0,Resort/Apartment,Coastal,Luxury
+Australia,Australia,Oceania,Port Douglas,Reef Luxury Stays,local experience,272.21,21.5,5.0,8.0,8.0,5.0,8.0,3.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Japan,Japan,Asia,Nagoya,Affordable Base,day-trip zone,74.93,14.6,5.0,5.0,5.0,8.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Egypt,Egypt,Africa,Dahab,Budget Diving Hostels,main area,90.18,21.9,5.0,4.0,6.0,7.0,7.0,5.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Marne-la-Vallee,Disneyland Paris,nearby district,139.04,12.0,6.0,7.0,3.0,6.0,7.0,6.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Canada,Canada,North America,Niagara Falls,Family Attractions,day-trip zone,182.5,4.6,6.0,5.0,4.0,7.0,6.0,6.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Brazil,Brazil,South America,Ouro Preto,Colonial Heritage,day-trip zone,103.8,20.1,3.0,3.0,6.0,8.0,8.0,3.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+China,China,Asia,Kunming,Affordable City Base,local experience,111.79,9.9,6.0,5.0,7.0,8.0,8.0,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Rotorua,Premium Spa Lodges,local experience,,13.9,4.0,7.0,6.0,6.0,8.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Santorini,Cliffside Hotels,main area,303.52,16.0,5.0,6.0,8.0,7.0,9.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Paris,Museums and Monuments,main area,124.19,13.6,3.0,3.0,6.0,9.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Kerala,Luxury Backwater Resorts,local experience,225.53,28.8,5.0,7.0,8.0,6.0,9.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Goa,Budget Beach Huts,day-trip zone,90.16,22.1,6.0,8.0,6.0,6.0,8.0,6.0,6.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Germany,Germany,Europe,Munich,Parks and Museums,main area,133.61,8.8,6.0,6.0,3.0,8.0,7.0,5.0,8.0,9.0,Standard Hotel,Urban-Heritage,Family
+New Zealand,New Zealand,Oceania,Tongariro,Alpine Crossing,local experience,136.73,15.5,8.0,3.0,4.0,5.0,8.0,8.0,8.0,9.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Dades Valley,Canyon Routes,day-trip zone,141.6,21.4,8.0,,5.0,6.0,5.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Merida,Safe Heritage Base,day-trip zone,179.06,23.7,5.0,7.0,2.0,8.0,6.0,4.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+USA,USA,North America,Aspen,Mountain Luxury,day-trip zone,255.17,14.5,6.0,8.0,7.0,8.0,6.0,5.0,8.0,9.0,Resort/Apartment,Mountain-Nature,Luxury
+Peru,Peru,South America,Paracas,Coastal Reserve,nearby district,111.47,19.5,6.0,9.0,6.0,5.0,7.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Thessaloniki,Byzantine Heritage,day-trip zone,182.64,19.8,3.0,2.0,5.0,8.0,8.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Niseko,Ski Resorts,local experience,204.69,13.2,4.0,7.0,8.0,7.0,8.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Nairobi,High-end Hotels,day-trip zone,231.35,20.6,4.0,7.0,7.0,8.0,9.0,3.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Germany,Germany,Europe,Munich,Parks and Museums,main area,130.34,7.0,6.0,6.0,3.0,8.0,8.0,5.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Brazil,Brazil,South America,Rio de Janeiro,Budget Beach Neighborhoods,local experience,71.24,28.8,,8.0,5.0,6.0,7.0,5.0,5.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Canada,Canada,North America,Ottawa,National Museums,local experience,143.27,3.1,3.0,3.0,6.0,8.0,6.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Italy,Italy,Europe,Cinque Terre,Coastal Trails,day-trip zone,174.53,13.1,10.0,8.0,4.0,6.0,,9.0,8.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Cape Town,Budget Hostels,main area,,13.2,6.0,4.0,5.0,5.0,8.0,6.0,7.0,5.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Japan,Japan,Asia,Okinawa,Diving Islands,local experience,108.0,13.0,8.0,8.0,4.0,6.0,6.0,6.0,8.0,9.0,Guesthouse/Hostel,Coastal,Adventure
+France,France,Europe,Lyon,Hostel Neighborhoods,local experience,90.05,10.3,6.0,5.0,7.0,6.0,8.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+South Africa,South Africa,Africa,Kruger,Private Safari Lodges,nearby district,263.53,14.7,3.0,7.0,8.0,7.0,9.0,5.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Vietnam,Vietnam,Asia,Ha Giang,Mountain Loop,nearby district,128.49,25.3,8.0,6.0,3.0,6.0,5.0,9.0,10.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Germany,Germany,Europe,Berlin,High-end Culture Stay,local experience,195.39,9.7,3.0,8.0,6.0,5.0,9.0,4.0,5.0,9.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Arequipa,Slow Colonial Stay,local experience,142.08,17.8,4.0,,6.0,6.0,7.0,5.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Greece,Greece,Europe,Mykonos,Beach Clubs,nearby district,182.26,21.9,5.0,9.0,4.0,3.0,6.0,6.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+New Zealand,New Zealand,Oceania,Rotorua,Geothermal Parks,main area,152.34,16.4,6.0,6.0,3.0,7.0,7.0,4.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+France,France,Europe,Paris,Museums and Monuments,main area,132.13,15.0,4.0,5.0,7.0,9.0,8.0,5.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Kenya,Kenya,Africa,Hell’s Gate,Cycling and Cliffs,day-trip zone,129.3,24.8,9.0,5.0,3.0,6.0,7.0,8.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Egypt,Egypt,Africa,Dahab,Slow Coastal Stay,day-trip zone,134.51,23.3,5.0,8.0,4.0,4.0,7.0,3.0,7.0,6.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Whistler,Ski Resorts,local experience,283.91,5.8,5.0,6.0,6.0,5.0,7.0,6.0,8.0,9.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Dahab,Slow Coastal Stay,day-trip zone,121.77,22.1,4.0,8.0,5.0,,7.0,,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Mar del Plata,Family Beaches,local experience,145.36,13.0,5.0,8.0,4.0,7.0,7.0,5.0,6.0,8.0,Standard Hotel,Coastal,Family
+Japan,Japan,Asia,Okinawa,Island Beaches,main area,108.54,15.8,5.0,10.0,5.0,,,7.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Bariloche,Lake Resorts,day-trip zone,237.56,14.1,4.0,8.0,8.0,6.0,8.0,7.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Argentina,Argentina,South America,Tigre,Delta Boat Escapes,local experience,144.66,15.0,4.0,9.0,5.0,4.0,7.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Toulouse,Budget Food and Culture,nearby district,97.93,13.2,4.0,5.0,5.0,6.0,8.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Australia,Australia,Oceania,Blue Mountains,Hiking Lookouts,nearby district,160.84,22.7,8.0,6.0,,5.0,7.0,8.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Brazil,Brazil,South America,Foz do Iguacu,Iguazu Falls Trails,main area,107.8,25.0,8.0,4.0,4.0,5.0,8.0,9.0,8.0,5.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Thailand,Thailand,Asia,Pai,Backpacker Town,day-trip zone,96.74,26.8,5.0,4.0,5.0,7.0,6.0,6.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Kerala,Luxury Backwater Resorts,local experience,222.64,22.7,6.0,7.0,7.0,5.0,9.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Egypt,Egypt,Africa,Luxor,Temple Tours,day-trip zone,128.69,25.1,6.0,5.0,4.0,8.0,7.0,7.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+Canada,Canada,North America,Montreal,Arts and Food,nearby district,175.15,6.2,4.0,3.0,6.0,8.0,9.0,4.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Lyon,Hostel Neighborhoods,local experience,83.74,12.2,5.0,4.0,6.0,6.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Mexico,Mexico,North America,Riviera Maya,Family Resorts,main area,157.4,19.0,6.0,6.0,3.0,7.0,8.0,6.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Tuscany,Countryside Stay,nearby district,196.3,18.0,5.0,9.0,6.0,4.0,8.0,5.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Oaxaca,Budget Food Stay,main area,89.92,20.5,5.0,7.0,6.0,6.0,7.0,6.0,,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Greece,Greece,Europe,Naxos,Budget Island Stay,nearby district,101.57,15.3,6.0,8.0,6.0,7.0,6.0,6.0,6.0,8.0,Guesthouse/Hostel,Coastal,Budget
+Greece,Greece,Europe,Santorini,Cliffside Hotels,main area,329.65,17.2,3.0,8.0,7.0,5.0,8.0,,5.0,9.0,Resort/Apartment,Coastal,Luxury
+Morocco,Morocco,Africa,Essaouira,Affordable Coast,local experience,89.86,18.5,6.0,8.0,6.0,6.0,8.0,7.0,7.0,6.0,Guesthouse/Hostel,Coastal,Budget
+Thailand,Thailand,Asia,Chiang Mai,Budget Guesthouses,main area,66.93,27.4,5.0,5.0,6.0,8.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Lake Garda,Family Parks,local experience,193.64,12.3,7.0,7.0,4.0,6.0,6.0,7.0,8.0,8.0,Standard Hotel,Mountain-Nature,Family
+Japan,Japan,Asia,Nara,Deer Park,day-trip zone,117.44,14.9,8.0,7.0,3.0,7.0,7.0,5.0,8.0,10.0,Standard Hotel,Mountain-Nature,Family
+France,France,Europe,Lyon,Hostel Neighborhoods,local experience,66.07,16.6,5.0,6.0,6.0,5.0,7.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Bologna,Student City,nearby district,117.63,16.2,5.0,6.0,6.0,8.0,7.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Egypt,Egypt,Africa,Cairo,Pyramids Family Tours,main area,130.66,23.2,5.0,7.0,2.0,6.0,7.0,6.0,8.0,8.0,Standard Hotel,Urban-Heritage,Family
+Greece,Greece,Europe,Athens,Acropolis and Plaka,main area,196.94,24.5,4.0,3.0,5.0,9.0,9.0,3.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Salvador,Affordable Historic Stay,nearby district,70.91,24.0,5.0,4.0,6.0,8.0,7.0,6.0,6.0,5.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Munich,Bavarian Culture,nearby district,133.26,11.3,4.0,4.0,8.0,9.0,8.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New York City,Museums and Broadway,main area,157.46,12.5,4.0,4.0,7.0,9.0,10.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Greece,Greece,Europe,Naxos,Calm Family Coast,local experience,181.07,20.1,6.0,8.0,3.0,6.0,7.0,5.0,7.0,9.0,Standard Hotel,Coastal,Family
+Morocco,Morocco,Africa,Marrakech,Medina and Souks,main area,135.8,24.6,3.0,4.0,6.0,,7.0,4.0,4.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Canada,Canada,North America,Montreal,Student Hostels,main area,109.35,6.2,5.0,3.0,6.0,7.0,8.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Agadir,Family Beach Resorts,nearby district,148.71,22.2,5.0,8.0,3.0,7.0,7.0,6.0,8.0,9.0,Standard Hotel,Coastal,Family
+Brazil,Brazil,South America,Salvador,Pelourinho Historic Center,main area,110.6,22.8,3.0,3.0,6.0,10.0,9.0,5.0,4.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Germany,Germany,Europe,Berchtesgaden,Alpine Lakes,local experience,97.92,11.0,9.0,4.0,4.0,7.0,6.0,10.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Riviera Maya,Family Resorts,main area,151.92,24.3,5.0,5.0,5.0,6.0,7.0,7.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+New Zealand,New Zealand,Oceania,Dunedin,Heritage Quarter,local experience,122.82,16.3,2.0,4.0,6.0,8.0,9.0,5.0,5.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Thailand,Thailand,Asia,Pai,Backpacker Town,day-trip zone,82.79,27.7,6.0,5.0,6.0,5.0,8.0,5.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+India,India,Asia,Kerala,Luxury Backwater Resorts,local experience,221.33,28.3,4.0,8.0,7.0,7.0,9.0,5.0,7.0,6.0,Resort/Apartment,Coastal,Luxury
+New Zealand,New Zealand,Oceania,Rotorua,Premium Spa Lodges,local experience,257.66,9.6,3.0,8.0,8.0,7.0,9.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Jaipur,Palace Visits,day-trip zone,122.31,23.8,7.0,8.0,3.0,8.0,6.0,6.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Rishikesh,Yoga Retreats,day-trip zone,117.24,29.8,,9.0,5.0,5.0,8.0,5.0,8.0,6.0,Resort/Apartment,Mountain-Nature,Relaxation
+Thailand,Thailand,Asia,Phuket,Beach Resorts,main area,139.81,28.3,4.0,9.0,5.0,6.0,8.0,4.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Luxor,Budget Nile Hotels,day-trip zone,78.44,25.2,6.0,,6.0,5.0,8.0,6.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Cusco,Boutique Heritage Hotels,day-trip zone,198.25,14.3,4.0,8.0,7.0,8.0,8.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Buzios,Beach Town,nearby district,98.53,26.5,5.0,10.0,5.0,6.0,7.0,5.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Da Nang,Budget Beach Stay,day-trip zone,77.51,28.0,,8.0,5.0,7.0,7.0,5.0,7.0,8.0,Guesthouse/Hostel,Coastal,Budget
+China,China,Asia,Guilin,River Family Tours,local experience,206.01,16.9,4.0,7.0,4.0,7.0,8.0,7.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Da Nang,Family Beaches,main area,148.09,24.1,5.0,8.0,5.0,7.0,8.0,6.0,6.0,7.0,Standard Hotel,Coastal,Family
+Germany,Germany,Europe,Hamburg,Budget Harbor Stay,day-trip zone,74.8,11.4,3.0,5.0,6.0,8.0,8.0,5.0,7.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Vietnam,Vietnam,Asia,Hanoi,Budget Street Food,main area,105.38,28.2,6.0,5.0,6.0,5.0,8.0,6.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Spain,Spain,Europe,Marbella,Luxury Resorts,main area,275.53,19.4,5.0,7.0,8.0,7.0,9.0,,8.0,8.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Salvador,Affordable Historic Stay,nearby district,57.72,24.0,5.0,5.0,6.0,8.0,9.0,5.0,7.0,5.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Kunming,Affordable City Base,local experience,110.13,13.5,6.0,4.0,6.0,8.0,7.0,5.0,7.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Cinque Terre,Coastal Trails,day-trip zone,172.61,12.1,9.0,8.0,4.0,6.0,5.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Peru,Peru,South America,Sacred Valley,Luxury Lodges,main area,207.39,17.3,5.0,6.0,7.0,7.0,6.0,4.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Mombasa,Old Town,day-trip zone,139.02,24.3,3.0,3.0,6.0,9.0,8.0,4.0,5.0,5.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,New Orleans,Music and Food,day-trip zone,141.2,16.4,3.0,3.0,5.0,7.0,8.0,4.0,6.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Yellowstone,Family Nature Trip,local experience,165.67,12.8,6.0,7.0,4.0,7.0,7.0,6.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+Egypt,Egypt,Africa,Cairo,Pyramids Family Tours,main area,135.06,26.2,5.0,7.0,2.0,6.0,7.0,7.0,6.0,7.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Jaipur,Heritage Palaces,nearby district,212.66,25.4,,6.0,6.0,8.0,9.0,6.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Kisumu,Affordable Lakeside,local experience,80.12,18.6,5.0,5.0,7.0,5.0,7.0,5.0,7.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Canada,Canada,North America,Vancouver Island,Quiet Coastal Stay,main area,164.39,6.0,5.0,9.0,4.0,6.0,7.0,4.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Amazonas,Amazon Jungle Lodges,day-trip zone,95.31,25.9,9.0,4.0,3.0,7.0,7.0,8.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Argentina,Argentina,South America,Mar del Plata,Family Beaches,local experience,138.48,17.1,6.0,8.0,2.0,5.0,7.0,6.0,6.0,8.0,Standard Hotel,Coastal,Family
+Spain,Spain,Europe,Pyrenees,Mountain Trails,main area,148.01,18.4,9.0,4.0,5.0,5.0,6.0,9.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Italy,Italy,Europe,Venice,Boat Rides,nearby district,193.82,15.4,5.0,6.0,4.0,5.0,7.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Japan,Japan,Asia,Kyoto,Zen Gardens,day-trip zone,117.46,14.0,2.0,8.0,5.0,5.0,9.0,5.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+Egypt,Egypt,Africa,Dahab,Slow Coastal Stay,day-trip zone,138.11,20.9,4.0,10.0,7.0,4.0,7.0,5.0,,6.0,Resort/Apartment,Coastal,Relaxation
+Canada,Canada,North America,Vancouver Island,Quiet Coastal Stay,main area,171.97,9.5,5.0,9.0,5.0,6.0,7.0,5.0,7.0,8.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Ouro Preto,Colonial Heritage,day-trip zone,120.78,25.2,3.0,5.0,6.0,9.0,9.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Spain,Spain,Europe,Canary Islands,Year-round Sun,local experience,179.1,24.3,4.0,8.0,3.0,5.0,7.0,4.0,,8.0,Resort/Apartment,Coastal,Relaxation
+Argentina,Argentina,South America,Buenos Aires,San Telmo Historic Quarter,main area,128.44,19.8,6.0,3.0,5.0,8.0,8.0,5.0,5.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Merida,Safe Heritage Base,day-trip zone,165.41,22.3,,7.0,5.0,8.0,8.0,3.0,7.0,,Standard Hotel,Urban-Heritage,Family
+Kenya,Kenya,Africa,Kisumu,Affordable Lakeside,local experience,91.78,22.5,5.0,4.0,5.0,6.0,7.0,4.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Peru,Peru,South America,Cusco,Inca Heritage,main area,123.74,15.9,3.0,3.0,4.0,9.0,7.0,3.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+USA,USA,North America,Utah,National Park Road Trip,main area,126.58,15.5,10.0,5.0,4.0,5.0,7.0,7.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Morocco,Morocco,Africa,Dades Valley,Canyon Routes,day-trip zone,136.12,20.8,8.0,5.0,3.0,5.0,,9.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Mexico,Mexico,North America,Riviera Maya,Family Resorts,main area,165.84,24.8,5.0,7.0,4.0,8.0,7.0,5.0,7.0,6.0,Standard Hotel,Urban-Heritage,Family
+Italy,Italy,Europe,Rome,Ancient Monuments,main area,173.44,17.3,4.0,3.0,,10.0,9.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+France,France,Europe,Bordeaux,Wine Country,local experience,131.31,17.4,4.0,9.0,4.0,5.0,6.0,4.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Japan,Japan,Asia,Okinawa,Diving Islands,local experience,119.43,13.8,8.0,8.0,3.0,4.0,7.0,10.0,10.0,8.0,Guesthouse/Hostel,Coastal,Adventure
+Spain,Spain,Europe,Madrid,Hostel Neighborhoods,local experience,108.05,13.9,5.0,5.0,7.0,6.0,9.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Thailand,Thailand,Asia,Phuket,Beach Resorts,main area,131.36,26.9,6.0,9.0,6.0,6.0,9.0,3.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Rio de Janeiro,Budget Beach Neighborhoods,local experience,73.37,24.4,5.0,8.0,5.0,6.0,7.0,6.0,6.0,7.0,Guesthouse/Hostel,Coastal,Budget
+Canada,Canada,North America,Toronto,Zoo and Museums,main area,182.49,,5.0,5.0,4.0,8.0,7.0,6.0,7.0,9.0,Standard Hotel,Urban-Heritage,Family
+Brazil,Brazil,South America,Sao Paulo,Fine Dining Hotels,day-trip zone,189.63,26.0,5.0,5.0,7.0,7.0,10.0,6.0,,6.0,Resort/Apartment,Coastal,Luxury
+Greece,Greece,Europe,Mykonos,Beach Clubs,nearby district,187.17,16.6,3.0,8.0,5.0,5.0,8.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Spain,Spain,Europe,Madrid,Hostel Neighborhoods,local experience,92.48,15.6,6.0,5.0,5.0,7.0,7.0,5.0,5.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Italy,Italy,Europe,Lake Como,Lakeside Retreat,local experience,173.96,18.2,4.0,6.0,3.0,4.0,7.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Agra,Monument Family Tours,main area,128.94,23.4,5.0,5.0,4.0,8.0,7.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Durban,Indian Ocean Culture,local experience,164.38,16.5,3.0,8.0,7.0,10.0,8.0,5.0,6.0,5.0,Standard Hotel,Coastal,Culture
+Egypt,Egypt,Africa,Marsa Alam,Resort Coast,local experience,227.86,23.6,4.0,8.0,7.0,6.0,8.0,3.0,6.0,7.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Provence,Lavender Villages,nearby district,123.29,11.7,4.0,8.0,6.0,6.0,7.0,5.0,7.0,,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Kerala,Luxury Backwater Resorts,local experience,217.87,27.3,5.0,8.0,5.0,8.0,9.0,7.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+China,China,Asia,Hangzhou,West Lake,nearby district,177.87,17.9,5.0,8.0,6.0,5.0,7.0,4.0,8.0,8.0,Resort/Apartment,Coastal,Relaxation
+Germany,Germany,Europe,Black Forest,Forest Hikes,nearby district,118.04,9.4,8.0,5.0,4.0,6.0,9.0,7.0,9.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+France,France,Europe,Toulouse,Budget Food and Culture,nearby district,98.11,11.1,5.0,6.0,5.0,7.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Germany,Germany,Europe,Munich,Bavarian Culture,nearby district,124.84,10.6,4.0,5.0,6.0,9.0,9.0,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Australia,Australia,Oceania,Adelaide,Affordable City Break,day-trip zone,100.47,23.7,5.0,6.0,6.0,8.0,8.0,6.0,6.0,8.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Kenya,Kenya,Africa,Maasai Mara,Family Safari,nearby district,169.24,18.5,4.0,,5.0,7.0,7.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+South Africa,South Africa,Africa,Johannesburg,Apartheid Museum,nearby district,158.36,14.9,4.0,4.0,5.0,9.0,7.0,4.0,5.0,6.0,Standard Hotel,Urban-Heritage,Culture
+Morocco,Morocco,Africa,Agadir,Family Beach Resorts,nearby district,140.53,19.4,5.0,8.0,4.0,6.0,7.0,,7.0,8.0,Standard Hotel,Coastal,Family
+Spain,Spain,Europe,Valencia,Science City,nearby district,166.21,17.2,7.0,7.0,,8.0,7.0,7.0,7.0,8.0,Standard Hotel,Urban-Heritage,Family
+India,India,Asia,Agra,Monument Family Tours,main area,127.4,25.7,6.0,7.0,3.0,8.0,7.0,6.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Greece,Greece,Europe,Mykonos,Beach Clubs,nearby district,197.39,17.3,5.0,10.0,5.0,6.0,7.0,3.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Hell’s Gate,Cycling and Cliffs,day-trip zone,106.83,22.7,8.0,5.0,5.0,4.0,6.0,9.0,7.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Athens,Hostel Center,local experience,105.14,19.4,4.0,5.0,6.0,6.0,8.0,6.0,5.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+China,China,Asia,Beijing,Forbidden City,main area,171.6,11.6,4.0,3.0,6.0,10.0,7.0,4.0,4.0,9.0,Standard Hotel,Urban-Heritage,Culture
+Argentina,Argentina,South America,Mar del Plata,Family Beaches,local experience,148.69,11.2,6.0,8.0,3.0,7.0,6.0,6.0,6.0,7.0,Standard Hotel,Coastal,Family
+Canada,Canada,North America,Vancouver Island,Coastal Trails,local experience,145.31,7.4,9.0,8.0,5.0,7.0,8.0,9.0,10.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Da Nang,Luxury Beach Hotels,nearby district,244.27,23.1,4.0,8.0,6.0,8.0,9.0,5.0,5.0,7.0,Resort/Apartment,Coastal,Luxury
+Peru,Peru,South America,Cusco,Inca Heritage,main area,117.1,12.9,4.0,5.0,7.0,8.0,7.0,4.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Jaipur,Budget Heritage Hostels,main area,79.11,22.9,5.0,6.0,7.0,8.0,8.0,4.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Argentina,Argentina,South America,Villa La Angostura,Lakeside Retreat,nearby district,128.39,20.5,3.0,7.0,6.0,6.0,6.0,4.0,8.0,6.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Copper Canyon,Rail and Hikes,nearby district,137.19,19.0,9.0,4.0,3.0,5.0,7.0,9.0,10.0,8.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Rhodes,Island Beaches,local experience,192.43,18.0,5.0,8.0,5.0,5.0,9.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+India,India,Asia,Jaipur,Budget Heritage Hostels,main area,80.02,24.9,6.0,6.0,4.0,8.0,6.0,4.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+Morocco,Morocco,Africa,Marrakech,Riad Spa Stay,local experience,146.04,21.7,4.0,8.0,4.0,6.0,6.0,5.0,6.0,8.0,Resort/Apartment,Coastal,Relaxation
+Kenya,Kenya,Africa,Hell’s Gate,Cycling and Cliffs,day-trip zone,153.61,19.6,8.0,6.0,5.0,5.0,7.0,9.0,9.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Greece,Greece,Europe,Santorini,Cliffside Hotels,main area,311.42,21.6,4.0,8.0,7.0,7.0,9.0,3.0,7.0,8.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,Utah,National Park Road Trip,main area,144.9,17.1,8.0,5.0,2.0,6.0,6.0,8.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Nagoya,Affordable Base,day-trip zone,85.14,17.1,5.0,6.0,6.0,5.0,8.0,6.0,8.0,10.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Queenstown,Lake Activities,day-trip zone,175.3,15.2,6.0,7.0,4.0,7.0,7.0,6.0,6.0,9.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Ho Chi Minh City,High-end Hotels,local experience,228.1,26.3,5.0,7.0,7.0,8.0,9.0,3.0,8.0,8.0,Resort/Apartment,Coastal,Luxury
+Morocco,Morocco,Africa,Rabat,Historic Capital,day-trip zone,164.27,23.4,4.0,2.0,5.0,10.0,9.0,1.0,6.0,9.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Jaipur,Palace Visits,day-trip zone,132.02,28.6,4.0,7.0,4.0,8.0,6.0,5.0,7.0,7.0,Standard Hotel,Urban-Heritage,Family
+Germany,Germany,Europe,Hamburg,Budget Harbor Stay,day-trip zone,75.05,7.2,7.0,5.0,6.0,7.0,7.0,6.0,5.0,9.0,Guesthouse/Hostel,Urban-Heritage,Budget
+New Zealand,New Zealand,Oceania,Bay of Islands,Luxury Lodges,nearby district,259.08,8.7,4.0,8.0,8.0,7.0,9.0,6.0,6.0,9.0,Resort/Apartment,Coastal,Luxury
+Mexico,Mexico,North America,Copper Canyon,Rail and Hikes,nearby district,151.33,20.3,8.0,3.0,4.0,5.0,5.0,9.0,8.0,6.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Japan,Japan,Asia,Niseko,Ski Resorts,local experience,201.34,18.3,5.0,8.0,6.0,8.0,8.0,6.0,8.0,10.0,Resort/Apartment,Coastal,Luxury
+USA,USA,North America,San Antonio,Affordable Heritage,local experience,87.08,14.7,5.0,5.0,6.0,8.0,7.0,5.0,6.0,7.0,Guesthouse/Hostel,Urban-Heritage,Budget
+France,France,Europe,Lyon,Old Town and Food,day-trip zone,120.82,16.5,5.0,3.0,6.0,8.0,9.0,4.0,5.0,8.0,Standard Hotel,Urban-Heritage,Culture
+India,India,Asia,Jaipur,Palace Visits,day-trip zone,140.38,29.4,5.0,7.0,4.0,8.0,8.0,5.0,8.0,7.0,Standard Hotel,Urban-Heritage,Family
+Morocco,Morocco,Africa,Rabat,Historic Capital,day-trip zone,136.21,22.8,4.0,4.0,6.0,9.0,9.0,3.0,4.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Brazil,Brazil,South America,Rio de Janeiro,Copacabana Luxury Hotels,main area,200.37,27.4,4.0,7.0,6.0,6.0,9.0,5.0,6.0,6.0,Resort/Apartment,Coastal,Luxury
+Brazil,Brazil,South America,Rio de Janeiro,Budget Beach Neighborhoods,local experience,69.35,25.8,5.0,8.0,7.0,7.0,6.0,6.0,4.0,5.0,Guesthouse/Hostel,Coastal,Budget
+Japan,Japan,Asia,Okinawa,Island Beaches,main area,120.21,19.9,4.0,8.0,7.0,6.0,7.0,5.0,8.0,9.0,Resort/Apartment,Coastal,Relaxation
+Vietnam,Vietnam,Asia,Ha Giang,Mountain Loop,nearby district,140.01,23.1,8.0,4.0,4.0,6.0,7.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Vietnam,Vietnam,Asia,Ho Chi Minh City,War History and Markets,local experience,146.23,29.4,4.0,3.0,6.0,10.0,8.0,4.0,6.0,8.0,Standard Hotel,Urban-Heritage,Culture
+Mexico,Mexico,North America,Tulum,Caribbean Beaches,main area,148.99,19.4,4.0,9.0,5.0,5.0,6.0,6.0,8.0,7.0,Resort/Apartment,Coastal,Relaxation
+Mexico,Mexico,North America,Puerto Vallarta,High-end Coast,local experience,265.88,24.5,7.0,8.0,7.0,7.0,8.0,5.0,6.0,5.0,Resort/Apartment,Coastal,Luxury
+Kenya,Kenya,Africa,Watamu,Quiet Beaches,nearby district,149.31,21.4,3.0,8.0,5.0,4.0,6.0,5.0,7.0,7.0,Resort/Apartment,Coastal,Relaxation
+South Africa,South Africa,Africa,Kruger,Private Safari Lodges,nearby district,274.0,19.9,5.0,8.0,7.0,7.0,8.0,6.0,8.0,7.0,Resort/Apartment,Coastal,Luxury
+Morocco,Morocco,Africa,Marrakech,Riad Spa Stay,local experience,129.82,27.1,4.0,9.0,4.0,6.0,6.0,5.0,7.0,9.0,Resort/Apartment,Coastal,Relaxation
+Brazil,Brazil,South America,Salvador,Affordable Historic Stay,nearby district,69.88,24.0,4.0,6.0,7.0,8.0,7.0,7.0,6.0,6.0,Guesthouse/Hostel,Urban-Heritage,Budget
+USA,USA,North America,Arizona,Grand Canyon,day-trip zone,142.06,9.4,9.0,5.0,4.0,4.0,6.0,10.0,8.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+South Africa,South Africa,Africa,Garden Route,Boutique Lodges,local experience,256.8,16.7,5.0,7.0,7.0,8.0,8.0,6.0,8.0,6.0,Resort/Apartment,Coastal,Luxury
+France,France,Europe,Loire Valley,Castle Routes,local experience,134.15,13.2,3.0,6.0,3.0,6.0,,5.0,5.0,8.0,Standard Hotel,Urban-Heritage,Family
+Vietnam,Vietnam,Asia,Da Lat,Waterfalls and Canyoning,local experience,133.64,23.8,9.0,5.0,3.0,4.0,6.0,9.0,9.0,7.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+Australia,Australia,Oceania,Noosa,Sunshine Coast Beaches,day-trip zone,173.56,26.5,5.0,9.0,8.0,6.0,7.0,5.0,6.0,7.0,Resort/Apartment,Coastal,Relaxation
+France,France,Europe,Lyon,Old Town and Food,day-trip zone,113.37,12.2,4.0,3.0,8.0,10.0,9.0,5.0,6.0,7.0,Standard Hotel,Urban-Heritage,Culture
+Japan,Japan,Asia,Nagano,Japanese Alps,nearby district,119.58,13.9,8.0,4.0,2.0,4.0,5.0,7.0,8.0,10.0,Guesthouse/Hostel,Mountain-Nature,Adventure
+New Zealand,New Zealand,Oceania,Rotorua,Geothermal Parks,main area,163.25,16.8,6.0,5.0,3.0,7.0,7.0,5.0,8.0,9.0,Standard Hotel,Mountain-Nature,Family
+Argentina,Argentina,South America,Mar del Plata,Family Beaches,local experience,152.4,15.5,6.0,8.0,3.0,8.0,7.0,6.0,7.0,8.0,Standard Hotel,Coastal,Family
+Mexico,Mexico,North America,Merida,Safe Heritage Base,day-trip zone,171.35,25.0,6.0,4.0,3.0,8.0,7.0,5.0,6.0,8.0,Standard Hotel,Urban-Heritage,Family
+France,France,Europe,Paris,Palace Hotels,main area,230.82,14.8,4.0,7.0,8.0,8.0,10.0,4.0,6.0,8.0,Resort/Apartment,Coastal,Luxury
+India,India,Asia,Jaipur,Palace Visits,day-trip zone,132.92,25.6,5.0,7.0,3.0,8.0,6.0,4.0,5.0,7.0,Standard Hotel,Urban-Heritage,Family

@@ -1,0 +1,18 @@
+
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: travel-ai-postgres
+    environment:
+      POSTGRES_DB: dests_db
+      POSTGRES_USER: alisaralmusa
+      POSTGRES_PASSWORD: post334gres
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./travel-dest-backend/sql/init_pgvector.sql:/docker-entrypoint-initdb.d/init_pgvector.sql
+
+volumes:
+  postgres_data:

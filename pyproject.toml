@@ -1,0 +1,53 @@
+[project]
+name = "week-4-project"
+version = "0.1.0"
+description = "Travel destination recommender workspace for backend ingestion and notebooks"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black",
+    "email-validator",
+    "fastapi",
+    "httpx",
+    "ipykernel==7.2.0",
+    "joblib==1.5.3",
+    "jupyterlab==4.5.6",
+    "langgraph",
+    "langsmith",
+    "matplotlib==3.10.9",
+    "notebook==7.5.5",
+    "numpy==2.4.4",
+    "openai",
+    "pandas==3.0.2",
+    "pgvector",
+    "pre-commit",
+    "pyjwt",
+    "psycopg[binary]",
+    "pydantic",
+    "pydantic-settings",
+    "pytest",
+    "pytest-asyncio",
+    "python-dotenv",
+    "requests",
+    "ruff",
+    "scikit-learn==1.8.0",
+    "seaborn==0.13.2",
+    "sqlalchemy",
+    "tenacity",
+    "uvicorn",
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+
+[tool.pytest.ini_options]
+pythonpath = ["travel-dest-backend"]
+testpaths = ["travel-dest-backend/tests"]

@@ -1,0 +1,61 @@
+# Python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+travel-dest-backend/.env
+travel-dest-frontend/.env
+travel-dest-frontend/.env.local
+
+# Keep safe examples tracked
+!.env.example
+!travel-dest-backend/.env.example
+!travel-dest-frontend/.env.example
+
+# Frontend dependencies and build output
+node_modules/
+travel-dest-frontend/node_modules/
+travel-dest-frontend/dist/
+travel-dest-frontend/dist-ssr/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Notebook noise
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
