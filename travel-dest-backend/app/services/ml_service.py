@@ -1,4 +1,5 @@
 """Load the trained ML artifact once and provide travel-style predictions."""
+# using joblib to load the sklearn pipeline
 
 from dataclasses import dataclass
 from typing import Any

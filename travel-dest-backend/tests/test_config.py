@@ -23,11 +23,15 @@ def set_required_settings(monkeypatch) -> None:
 def test_settings_load_from_environment(monkeypatch) -> None:
     """The settings object should read values from environment variables."""
     set_required_settings(monkeypatch)
+    monkeypatch.setenv("LANGSMITH_TRACING", "true")
+    monkeypatch.setenv("LANGSMITH_API_KEY", "test-langsmith-key")
 
     settings = Settings()  # type: ignore[call-arg]
 
     assert settings.DATABASE_URL.endswith("dests_db")
     assert settings.AZURE_OPENAI_EMBEDDING_DEPLOYMENT == "text-embedding-3-small"
+    assert settings.LANGSMITH_TRACING is True
+    assert settings.LANGSMITH_API_KEY == "test-langsmith-key"
     assert settings.RAW_DATA_DIR == "data/raw"
     assert settings.WIKIVOYAGE_API_URL == "https://en.wikivoyage.org/w/api.php"
 

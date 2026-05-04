@@ -1,13 +1,15 @@
 """Split cleaned destination text into a small number of overlapping chunks."""
 
 from datetime import datetime, timezone
-from math import ceil
 from pathlib import Path
 
 from app.core.config import get_settings
 from app.core.logging import get_logger
-from app.schemas.rag import ChunkedDestinationDocument, DestinationChunk, ProcessedDestinationDocument
-
+from app.schemas.rag import (
+    ChunkedDestinationDocument,
+    DestinationChunk,
+    ProcessedDestinationDocument,
+)
 
 logger = get_logger(__name__)
 
@@ -23,24 +25,20 @@ def split_text_into_chunks(
     overlap_tokens: int,
     max_chunks: int,
 ) -> list[str]:
-    """Split text into one to three overlapping chunks using word boundaries."""
+    """Split text into fixed-size overlapping chunks and cap extra tail content."""
     words = text.split()
     if not words:
         return []
 
     total_words = len(words)
-    if total_words <= target_tokens:
+    if total_words <= target_tokens or max_chunks <= 1:
         return [" ".join(words)]
-
-    estimated_chunk_count = ceil(total_words / target_tokens)
-    chunk_count = max(1, min(max_chunks, estimated_chunk_count))
-    base_chunk_size = ceil(total_words / chunk_count)
 
     chunks: list[str] = []
     start_index = 0
 
-    for chunk_number in range(chunk_count):
-        end_index = total_words if chunk_number == chunk_count - 1 else min(total_words, start_index + base_chunk_size)
+    while start_index < total_words and len(chunks) < max_chunks:
+        end_index = min(total_words, start_index + target_tokens)
         chunk_words = words[start_index:end_index]
         if chunk_words:
             chunks.append(" ".join(chunk_words))
@@ -66,7 +64,9 @@ def output_file_path(destination_name: str) -> Path:
 def process_file(file_path: Path) -> None:
     """Read one processed document, chunk it, and save the result."""
     settings = get_settings()
-    processed_document = ProcessedDestinationDocument.model_validate_json(file_path.read_text(encoding="utf-8"))
+    processed_document = ProcessedDestinationDocument.model_validate_json(
+        file_path.read_text(encoding="utf-8")
+    )
     chunk_texts = split_text_into_chunks(
         text=processed_document.clean_text,
         target_tokens=settings.CHUNK_TARGET_TOKENS,
@@ -74,7 +74,10 @@ def process_file(file_path: Path) -> None:
         max_chunks=settings.MAX_CHUNKS_PER_DESTINATION,
     )
 
-    chunk_models = [DestinationChunk(chunk_index=index, text=chunk_text) for index, chunk_text in enumerate(chunk_texts)]
+    chunk_models = [
+        DestinationChunk(chunk_index=index, text=chunk_text)
+        for index, chunk_text in enumerate(chunk_texts)
+    ]
     chunked_document = ChunkedDestinationDocument(
         destination=processed_document.destination,
         source=processed_document.source,

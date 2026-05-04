@@ -1,6 +1,5 @@
 """Tool for fetching live weather conditions for candidate destinations."""
-
-from pydantic import ValidationError
+# uses weather service to fetch live conditions for a list of destinations.
 
 from app.schemas.tools import (
     DestinationWeather,

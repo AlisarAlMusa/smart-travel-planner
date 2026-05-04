@@ -1,4 +1,9 @@
 """Helpers for cheap-model JSON work and strong-model final synthesis."""
+# uses injected client and settings for Azure OpenAI calls
+# using async
+# using tenacity for retries with exponential backoff
+
+# implements LLM generate_json and estimate_cost
 
 import json
 from dataclasses import dataclass

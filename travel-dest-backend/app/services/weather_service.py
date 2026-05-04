@@ -1,4 +1,5 @@
 """Weather lookup service built on top of Open-Meteo APIs."""
+# uses injected async http client and settings for API calls
 
 import time
 from typing import Any
@@ -67,6 +68,8 @@ class WeatherService:
             raise ValueError(f"Could not geocode destination: {destination}")
 
         match = results[0]
+
+        # --------- sending the request
         weather_data = await self._request(
             self.settings.WEATHER_FORECAST_URL,
             {

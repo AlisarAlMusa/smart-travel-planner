@@ -347,9 +347,49 @@ textarea:focus {
   text-transform: uppercase;
 }
 
-.chat-message p {
+.message-content {
   margin: 0;
   white-space: pre-wrap;
+}
+
+.markdown-content {
+  display: grid;
+  gap: 10px;
+  white-space: normal;
+}
+
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content p,
+.markdown-content ul {
+  margin: 0;
+}
+
+.markdown-content h2 {
+  color: #132333;
+  font-size: 1.18rem;
+  line-height: 1.25;
+}
+
+.markdown-content h3 {
+  color: #1f5262;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.markdown-content ul {
+  display: grid;
+  gap: 7px;
+  padding-left: 20px;
+}
+
+.markdown-content li {
+  padding-left: 2px;
+}
+
+.markdown-content strong {
+  color: #16283a;
+  font-weight: 800;
 }
 
 .chat-form {
@@ -487,15 +527,89 @@ textarea:focus {
   color: #a92b2b;
 }
 
+.status-pill.partial {
+  background: #fff6df;
+  color: #8a5b00;
+}
+
 .latency {
   color: #607083;
   font-size: 0.82rem;
   white-space: nowrap;
 }
 
+.tool-summary {
+  display: grid;
+  gap: 10px;
+  border-top: 1px solid #edf2f6;
+  color: #334155;
+  padding: 12px;
+}
+
+.tool-summary p {
+  margin: 0;
+}
+
+.summary-list {
+  display: grid;
+  gap: 9px;
+}
+
+.summary-item {
+  display: grid;
+  gap: 3px;
+}
+
+.summary-item span {
+  color: #647386;
+  font-size: 0.78rem;
+  font-weight: 750;
+  text-transform: uppercase;
+}
+
+.summary-item strong {
+  color: #1d2a3a;
+  font-size: 0.94rem;
+  overflow-wrap: anywhere;
+}
+
+.destination-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.destination-pills span {
+  border-radius: 999px;
+  background: #edf4f6;
+  color: #24596a;
+  font-size: 0.82rem;
+  font-weight: 750;
+  padding: 5px 9px;
+}
+
+.detail-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 0;
+  border-top: 1px solid #edf2f6;
+  background: #ffffff;
+  color: #1f6d7f;
+  font-size: 0.86rem;
+  font-weight: 800;
+  padding: 10px 12px;
+  width: 100%;
+}
+
+.detail-toggle:hover {
+  background: #f7fbfc;
+}
+
 .tool-card-body {
   display: grid;
   gap: 12px;
+  border-top: 1px solid #edf2f6;
   padding: 12px;
 }
 

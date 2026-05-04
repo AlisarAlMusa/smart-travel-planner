@@ -1,5 +1,6 @@
 """Tool that extracts ML features with the cheap model and predicts travel style with sklearn."""
-
+# 1- LLm extracts ML features.
+# 2- ML predictions.
 from app.agent.prompts import (
     FEATURE_EXTRACTION_SYSTEM_PROMPT,
     build_feature_extraction_user_prompt,
@@ -54,6 +55,7 @@ async def classify_travel_style(
             "Extracting travel-style ML features",
             extra={"event": "classify_travel_style_feature_extraction_start"},
         )
+        # ---------- 1
         extraction = await llm_service.generate_json(
             system_prompt=FEATURE_EXTRACTION_SYSTEM_PROMPT,
             user_prompt=build_feature_extraction_user_prompt(validated_input.user_query),
@@ -75,6 +77,7 @@ async def classify_travel_style(
                 "feature_payload": feature_model.to_model_payload(),
             },
         )
+        # ---------- 2
         prediction = ml_service.predict_style(feature_model.to_model_payload())
         logger.info(
             "Predicted travel style",
@@ -93,6 +96,7 @@ async def classify_travel_style(
                 extracted_features=prediction.features,
             ),
         )
+        # -------- 3
         total_tokens = extraction.prompt_tokens + extraction.completion_tokens
         cost = llm_service.estimate_cost(
             extraction.prompt_tokens,

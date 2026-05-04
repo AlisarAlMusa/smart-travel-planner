@@ -3,8 +3,14 @@
 from functools import lru_cache
 from pathlib import Path
 
+from dotenv import load_dotenv
 from pydantic import Field, ValidationInfo, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+BACKEND_DIR = Path(__file__).resolve().parents[2]
+BACKEND_ENV_FILE = BACKEND_DIR / ".env"
+
+load_dotenv(BACKEND_ENV_FILE, override=False)
 
 REQUIRED_ENV_FIELDS = (
     "DATABASE_URL",
@@ -28,7 +34,7 @@ class Settings(BaseSettings):
     """Load environment variables for the backend and agent stack."""
 
     model_config = SettingsConfigDict(
-        env_file=".env",
+        env_file=BACKEND_ENV_FILE,
         env_file_encoding="utf-8",
         extra="ignore",
         validate_default=True,
@@ -49,16 +55,15 @@ class Settings(BaseSettings):
 
     LANGSMITH_TRACING: bool = False
     LANGSMITH_API_KEY: str | None = None
-    LANGSMITH_ENDPOINT: str | None = None
     LANGSMITH_PROJECT: str = "travel-planner-agent"
 
     RAW_DATA_DIR: str = "data/raw"
     PROCESSED_DATA_DIR: str = "data/processed"
     CHUNKS_DATA_DIR: str = "data/chunks"
 
-    CHUNK_TARGET_TOKENS: int = 1000
+    CHUNK_TARGET_TOKENS: int = 2500
     CHUNK_OVERLAP_TOKENS: int = 150
-    MAX_CHUNKS_PER_DESTINATION: int = 3
+    MAX_CHUNKS_PER_DESTINATION: int = 4
 
     WIKIVOYAGE_API_URL: str = "https://en.wikivoyage.org/w/api.php"
     WIKIVOYAGE_USER_AGENT: str = (
@@ -76,6 +81,8 @@ class Settings(BaseSettings):
     HTTP_MAX_RETRIES: int = 3
     AGENT_TOP_K_DESTINATIONS: int = 3
     EMBEDDING_DIMENSION: int = 1536
+    EMBEDDING_MAX_INPUT_WORDS: int = 7000
+    EMBEDDING_REQUEST_DELAY_SECONDS: float = 3.0
     MODEL_ARTIFACT_PATH: str = "artifacts/model.joblib"
 
     CHEAP_MODEL_INPUT_COST_PER_1K: float = Field(default=0.0)
@@ -104,7 +111,7 @@ class Settings(BaseSettings):
     @property
     def base_dir(self) -> Path:
         """Return the backend directory."""
-        return Path(__file__).resolve().parents[2]
+        return BACKEND_DIR
 
     @property
     def repo_root(self) -> Path:
@@ -136,14 +143,3 @@ class Settings(BaseSettings):
 def get_settings() -> Settings:
     """Cache settings so all modules share one validated configuration object."""
     return Settings()  # type: ignore[call-arg]
-
-
-# {
-#   "email": "testuser@example.com",
-#   "password": "password123"
-# }
-
-
-#  I want a 7 day beach vacation with good food, warm weather, and a moderate budget.
-#  Recommend a cultural city trip for someone who loves museums, history, architecture, and local food.
-#  I want an adventurous nature trip with hiking, mountains, scenic views, and safe conditions.

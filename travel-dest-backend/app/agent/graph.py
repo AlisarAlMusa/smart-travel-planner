@@ -7,6 +7,7 @@ from app.agent.prompts import FINAL_SYNTHESIS_SYSTEM_PROMPT, build_final_synthes
 from app.agent.state import AgentState
 from app.agent.tool_registry import dispatch_tool
 from app.core.logging import get_logger
+from app.schemas.tools import GetLiveConditionsOutput, ToolError
 from app.tools.classify_travel_style import classify_travel_style
 from app.tools.live_conditions import get_live_conditions
 from app.tools.retrieve_destinations import retrieve_destinations
@@ -80,6 +81,8 @@ class TravelAgentGraph:
             "Starting classify_travel_style tool",
             extra={"event": "agent_tool_start", "tool_name": "classify_travel_style"},
         )
+
+        # ---------- Tool calling: Classify Travel Style -----------
         result, tokens, cost = await dispatch_tool(
             "classify_travel_style",
             lambda: classify_travel_style(
@@ -150,6 +153,7 @@ class TravelAgentGraph:
                 "style_hint": predicted_style,
             },
         )
+        # ---------- Tool calling: Retrieve Destinations -----------
         result, tokens, cost = await dispatch_tool(
             "retrieve_destinations",
             lambda: retrieve_destinations(
@@ -198,6 +202,41 @@ class TravelAgentGraph:
         ]
         started_at = perf_counter()
         tool_input = {"destinations": destinations}
+        if not destinations:
+            latency_ms = int((perf_counter() - started_at) * 1000)
+            result = GetLiveConditionsOutput(
+                status="partial_success",
+                conditions=[],
+                error=ToolError(
+                    error_type="no_destinations",
+                    message=(
+                        "Live conditions were skipped because retrieval returned "
+                        "no destinations."
+                    ),
+                    details={"retrieval_status": retrieval_result.get("status")},
+                ),
+            )
+            logger.warning(
+                "Skipped get_live_conditions because retrieval returned no destinations",
+                extra={
+                    "event": "agent_tool_skipped",
+                    "tool_name": "get_live_conditions",
+                    "reason": "no_destinations",
+                },
+            )
+            tool_logs = list(state.get("tool_logs", []))
+            tool_logs.append(
+                {
+                    "tool_name": "get_live_conditions",
+                    "status": result.status,
+                    "latency_ms": latency_ms,
+                    "tool_input": tool_input,
+                    "output": result.model_dump(),
+                    "error_message": result.error.message,
+                }
+            )
+            return {"live_conditions_result": result.model_dump(), "tool_logs": tool_logs}
+
         logger.info(
             "Starting get_live_conditions tool",
             extra={
@@ -206,6 +245,7 @@ class TravelAgentGraph:
                 "destination_count": len(destinations),
             },
         )
+        # ---------- Tool calling: Get Live Conditions -----------
         result = await dispatch_tool(
             "get_live_conditions",
             lambda: get_live_conditions(tool_input, weather_service=self.weather_service),
@@ -250,6 +290,8 @@ class TravelAgentGraph:
         )
         try:
             logger.info("Starting final synthesis", extra={"event": "agent_synthesis_start"})
+
+            # --------- LLM Final Synthesis -----------
             result = await self.llm_service.generate_text(
                 system_prompt=FINAL_SYNTHESIS_SYSTEM_PROMPT,
                 user_prompt=synthesis_prompt,

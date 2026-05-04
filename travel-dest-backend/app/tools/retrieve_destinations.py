@@ -1,4 +1,6 @@
 """Tool for retrieving similar destinations from the pgvector RAG store."""
+# 1- rewrite and clean input .
+# 2- uses rag_services: embed the query and retrieve similars.
 
 from typing import Any
 
@@ -56,6 +58,7 @@ async def retrieve_destinations(
                 "top_k": rewrite_payload.get("top_k", validated_input.top_k),
             }
         )
+        # ---------------------- Retrieval from RAG store -----------------
         query_embedding = await rag_service.embed_query(cleaned_input.query)
         results = rag_service.retrieve_similar_destinations(
             query_embedding=query_embedding,

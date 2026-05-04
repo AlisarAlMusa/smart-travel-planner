@@ -216,7 +216,6 @@ To create the screenshot:
 ```env
 LANGSMITH_TRACING=true
 LANGSMITH_API_KEY=your_langsmith_key
-LANGSMITH_ENDPOINT=https://api.smith.langchain.com
 LANGSMITH_PROJECT=travel-planner-agent
 ```
 

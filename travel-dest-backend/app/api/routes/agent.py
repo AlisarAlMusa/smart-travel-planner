@@ -1,4 +1,8 @@
 """Agent route for running the smart travel planner end to end."""
+# all dependecies are injected via FastAPI Depends
+# uses Async
+# create w new agent_run in the db 
+# uses langsmith tracing context to capture all tool calls and the final answer
 
 from fastapi import APIRouter, Depends
 from langsmith import tracing_context

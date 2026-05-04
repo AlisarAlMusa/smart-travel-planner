@@ -1,4 +1,5 @@
 """Retrieve destination chunks from Postgres + pgvector for the agent."""
+# implements embed query and retrieval of similar chunks based on cosine distance
 
 from typing import Any
 

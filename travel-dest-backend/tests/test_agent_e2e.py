@@ -106,6 +106,13 @@ class FakeRAGService:
         ][:top_k]
 
 
+class FakeEmptyRAGService(FakeRAGService):
+    """Fake retrieval service that returns no matching destinations."""
+
+    def retrieve_similar_destinations(self, query_embedding: list[float], top_k: int):
+        return []
+
+
 class FakePrediction:
     """Fake prediction output for the ML service."""
 
@@ -172,3 +179,20 @@ async def test_agent_graph_continues_when_classification_fails() -> None:
     assert result["retrieval_result"]["destinations"][0]["destination"] == "Portugal"
     assert result["tool_logs"][1]["tool_input"]["style_hint"] is None
     assert "Portugal" in result["final_answer"]
+
+
+@pytest.mark.anyio
+async def test_agent_graph_skips_weather_when_retrieval_is_empty() -> None:
+    """The graph should not call weather validation with an empty destination list."""
+    graph = TravelAgentGraph(
+        llm_service=FakeLLMService(),
+        rag_service=FakeEmptyRAGService(),
+        ml_service=FakeMLService(),
+        weather_service=FakeWeatherService(),
+    )
+    result = await graph.run("I want an adventure destination with nature")
+
+    assert result["retrieval_result"]["destinations"] == []
+    assert result["live_conditions_result"]["status"] == "partial_success"
+    assert result["live_conditions_result"]["error"]["error_type"] == "no_destinations"
+    assert result["tool_logs"][2]["tool_name"] == "get_live_conditions"
